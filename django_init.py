@@ -3,10 +3,10 @@ import os
 import sys
 
 # path to folder where "manage.py" lives in your django project.
-project_path = "/home/jonathanmorgan/work/sourcenet/django/dev/"
+project_path = "/home/jonathanmorgan/work/sourcenet/django/research/"
 
 # Tell django where settings are.
-os.environ.setdefault( "DJANGO_SETTINGS_MODULE", "dev.settings" )
+os.environ.setdefault( "DJANGO_SETTINGS_MODULE", "research.settings" )
 sys.path.append( project_path )
 
 # OPTIONAL - This is so my local_settings.py gets loaded.
