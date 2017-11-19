@@ -1,0 +1,273 @@
+Start of update_author_shared_sources():
+In update_author_shared_sources: multiple authors ( [3, 84] for source 2731
+In update_author_shared_sources: multiple authors ( [598, 1082] for source 2052
+In update_author_shared_sources: multiple authors ( [598, 1082] for source 2054
+In update_author_shared_sources: multiple authors ( [598, 1082] for source 2055
+In update_author_shared_sources: multiple authors ( [598, 1082] for source 2056
+In update_author_shared_sources: multiple authors ( [69, 84] for source 345
+In update_author_shared_sources: multiple authors ( [377, 69, 23, 437] for source 2094
+In update_author_shared_sources: multiple authors ( [66, 23] for source 2096
+In update_author_shared_sources: multiple authors ( [598, 1082] for source 2060
+In update_author_shared_sources: multiple authors ( [377, 69] for source 100
+In update_author_shared_sources: multiple authors ( [46, 161] for source 358
+In update_author_shared_sources: multiple authors ( [66, 223, 46, 69, 36, 23] for source 102
+In update_author_shared_sources: multiple authors ( [46, 161] for source 360
+In update_author_shared_sources: multiple authors ( [46, 161] for source 361
+In update_author_shared_sources: multiple authors ( [46, 161] for source 362
+In update_author_shared_sources: multiple authors ( [394, 302] for source 2205
+In update_author_shared_sources: multiple authors ( [161, 46] for source 162
+In update_author_shared_sources: multiple authors ( [161, 46] for source 163
+In update_author_shared_sources: multiple authors ( [161, 46] for source 164
+In update_author_shared_sources: multiple authors ( [161, 46] for source 165
+In update_author_shared_sources: multiple authors ( [161, 46] for source 166
+In update_author_shared_sources: multiple authors ( [73, 1655] for source 2222
+In update_author_shared_sources: multiple authors ( [73, 1655] for source 2223
+In update_author_shared_sources: multiple authors ( [73, 1655] for source 2224
+In update_author_shared_sources: multiple authors ( [73, 1655] for source 2225
+In update_author_shared_sources: multiple authors ( [36, 599] for source 2226
+In update_author_shared_sources: multiple authors ( [46, 3] for source 182
+In update_author_shared_sources: multiple authors ( [217, 178] for source 2233
+In update_author_shared_sources: multiple authors ( [377, 69, 46, 937, 23, 66, 591] for source 188
+In update_author_shared_sources: multiple authors ( [3, 84] for source 2734
+In update_author_shared_sources: multiple authors ( [505, 74] for source 2256
+In update_author_shared_sources: multiple authors ( [30, 217] for source 2265
+In update_author_shared_sources: multiple authors ( [437, 377, 217, 74] for source 218
+In update_author_shared_sources: multiple authors ( [36, 223, 178] for source 225
+In update_author_shared_sources: multiple authors ( [73, 23] for source 236
+In update_author_shared_sources: multiple authors ( [73, 437] for source 237
+In update_author_shared_sources: multiple authors ( [36, 74] for source 2315
+In update_author_shared_sources: multiple authors ( [69, 387] for source 289
+In update_author_shared_sources: multiple authors ( [223, 69, 437] for source 290
+In update_author_shared_sources: multiple authors ( [84, 443, 66] for source 308
+In update_author_shared_sources: multiple authors ( [178, 336] for source 337
+In update_author_shared_sources: multiple authors ( [69, 84, 46, 937, 23, 66, 437] for source 346
+In update_author_shared_sources: multiple authors ( [377, 69] for source 2402
+In update_author_shared_sources: multiple authors ( [591, 394] for source 368
+In update_author_shared_sources: multiple authors ( [29, 69] for source 383
+In update_author_shared_sources: multiple authors ( [591, 69] for source 404
+In update_author_shared_sources: multiple authors ( [69, 217] for source 439
+In update_author_shared_sources: multiple authors ( [66, 69] for source 451
+In update_author_shared_sources: multiple authors ( [69, 217] for source 454
+In update_author_shared_sources: multiple authors ( [387, 66] for source 474
+In update_author_shared_sources: multiple authors ( [69, 30] for source 475
+In update_author_shared_sources: multiple authors ( [46, 937, 23, 66] for source 476
+In update_author_shared_sources: multiple authors ( [46, 937, 23, 66] for source 477
+In update_author_shared_sources: multiple authors ( [46, 937, 23, 66] for source 478
+In update_author_shared_sources: multiple authors ( [46, 937, 23, 66] for source 479
+In update_author_shared_sources: multiple authors ( [46, 937, 23, 66] for source 480
+In update_author_shared_sources: multiple authors ( [178, 161, 437, 66] for source 487
+In update_author_shared_sources: multiple authors ( [74, 591] for source 502
+In update_author_shared_sources: multiple authors ( [425, 302] for source 510
+In update_author_shared_sources: multiple authors ( [425, 302] for source 511
+In update_author_shared_sources: multiple authors ( [84, 66] for source 512
+In update_author_shared_sources: multiple authors ( [84, 66, 2310] for source 513
+In update_author_shared_sources: multiple authors ( [84, 66] for source 514
+In update_author_shared_sources: multiple authors ( [84, 66] for source 515
+In update_author_shared_sources: multiple authors ( [46, 217, 66, 3] for source 516
+In update_author_shared_sources: multiple authors ( [336, 443] for source 521
+In update_author_shared_sources: multiple authors ( [73, 217, 66] for source 534
+In update_author_shared_sources: multiple authors ( [36, 223] for source 551
+In update_author_shared_sources: multiple authors ( [36, 223] for source 552
+In update_author_shared_sources: multiple authors ( [36, 223] for source 553
+In update_author_shared_sources: multiple authors ( [36, 223] for source 554
+In update_author_shared_sources: multiple authors ( [36, 223, 74] for source 555
+In update_author_shared_sources: multiple authors ( [13, 161] for source 558
+In update_author_shared_sources: multiple authors ( [84, 66] for source 569
+In update_author_shared_sources: multiple authors ( [84, 599] for source 572
+In update_author_shared_sources: multiple authors ( [84, 178, 599, 66] for source 574
+In update_author_shared_sources: multiple authors ( [443, 66] for source 2626
+In update_author_shared_sources: multiple authors ( [66, 387] for source 2656
+In update_author_shared_sources: multiple authors ( [66, 387] for source 2658
+In update_author_shared_sources: multiple authors ( [66, 387] for source 2660
+In update_author_shared_sources: multiple authors ( [161, 437, 217] for source 617
+In update_author_shared_sources: multiple authors ( [84, 217] for source 664
+In update_author_shared_sources: multiple authors ( [66, 443, 599] for source 668
+In update_author_shared_sources: multiple authors ( [3, 84] for source 2733
+In update_author_shared_sources: multiple authors ( [3, 84] for source 2735
+In update_author_shared_sources: multiple authors ( [3, 84] for source 2736
+In update_author_shared_sources: multiple authors ( [84, 66] for source 769
+In update_author_shared_sources: multiple authors ( [591, 443] for source 137
+In update_author_shared_sources: multiple authors ( [443, 66] for source 2934
+In update_author_shared_sources: multiple authors ( [46, 437, 217] for source 1059
+In update_author_shared_sources: multiple authors ( [46, 3] for source 1080
+In update_author_shared_sources: multiple authors ( [377, 437] for source 1109
+In update_author_shared_sources: multiple authors ( [443, 66] for source 2630
+In update_author_shared_sources: multiple authors ( [377, 217] for source 1203
+In update_author_shared_sources: multiple authors ( [73, 1655] for source 1343
+In update_author_shared_sources: multiple authors ( [217, 3] for source 1419
+In update_author_shared_sources: multiple authors ( [443, 66] for source 2627
+In update_author_shared_sources: multiple authors ( [443, 66] for source 2629
+In update_author_shared_sources: multiple authors ( [73, 23] for source 1548
+In update_author_shared_sources: multiple authors ( [2310, 66] for source 2311
+In update_author_shared_sources: multiple authors ( [66, 387] for source 2655
+In update_author_shared_sources: multiple authors ( [66, 387] for source 2657
+In update_author_shared_sources: multiple authors ( [377, 69, 223] for source 1730
+In update_author_shared_sources: multiple authors ( [69, 591] for source 1732
+In update_author_shared_sources: multiple authors ( [69, 377, 437, 178] for source 1733
+In update_author_shared_sources: multiple authors ( [69, 377] for source 1734
+In update_author_shared_sources: multiple authors ( [84, 66] for source 1736
+In update_author_shared_sources: multiple authors ( [84, 66] for source 1737
+In update_author_shared_sources: multiple authors ( [73, 1655] for source 1778
+In update_author_shared_sources: multiple authors ( [437, 217] for source 1861
+In update_author_shared_sources: multiple authors ( [460, 332] for source 1892
+In update_author_shared_sources: multiple authors ( [437, 66] for source 1980
+In update_author_shared_sources: multiple authors ( [29, 437, 46] for source 2027
+In update_author_shared_sources: multiple authors ( [3, 84] for source 2731
+In update_author_shared_sources: multiple authors ( [1082, 598] for source 2052
+In update_author_shared_sources: multiple authors ( [1082, 598] for source 2054
+In update_author_shared_sources: multiple authors ( [1082, 598] for source 2056
+In update_author_shared_sources: multiple authors ( [69, 84] for source 345
+In update_author_shared_sources: multiple authors ( [69, 377, 23, 437] for source 2094
+In update_author_shared_sources: multiple authors ( [1082, 598] for source 2060
+In update_author_shared_sources: multiple authors ( [377, 69] for source 100
+In update_author_shared_sources: multiple authors ( [46, 161] for source 358
+In update_author_shared_sources: multiple authors ( [66, 161, 223, 178, 46, 69, 36, 425, 23] for source 102
+In update_author_shared_sources: multiple authors ( [46, 161] for source 361
+In update_author_shared_sources: multiple authors ( [46, 161] for source 362
+In update_author_shared_sources: multiple authors ( [591, 443] for source 137
+In update_author_shared_sources: multiple authors ( [394, 302] for source 2205
+In update_author_shared_sources: multiple authors ( [46, 161] for source 163
+In update_author_shared_sources: multiple authors ( [46, 161] for source 164
+In update_author_shared_sources: multiple authors ( [46, 161] for source 165
+In update_author_shared_sources: multiple authors ( [46, 161] for source 166
+In update_author_shared_sources: multiple authors ( [73, 1655] for source 2222
+In update_author_shared_sources: multiple authors ( [73, 1655] for source 2223
+In update_author_shared_sources: multiple authors ( [73, 1655] for source 2224
+In update_author_shared_sources: multiple authors ( [73, 1655] for source 2225
+In update_author_shared_sources: multiple authors ( [36, 599] for source 2226
+In update_author_shared_sources: multiple authors ( [46, 3] for source 182
+In update_author_shared_sources: multiple authors ( [217, 178] for source 2233
+In update_author_shared_sources: multiple authors ( [377, 66, 23, 69, 591] for source 188
+In update_author_shared_sources: multiple authors ( [3, 84] for source 2734
+In update_author_shared_sources: multiple authors ( [74, 505] for source 2256
+In update_author_shared_sources: multiple authors ( [30, 217] for source 2265
+In update_author_shared_sources: multiple authors ( [437, 377, 217, 74, 178] for source 218
+In update_author_shared_sources: multiple authors ( [73, 23] for source 236
+In update_author_shared_sources: multiple authors ( [73, 437] for source 237
+In update_author_shared_sources: multiple authors ( [66, 599] for source 250
+In update_author_shared_sources: multiple authors ( [36, 74] for source 2315
+In update_author_shared_sources: multiple authors ( [69, 387] for source 289
+In update_author_shared_sources: multiple authors ( [178, 69, 223, 437] for source 290
+In update_author_shared_sources: multiple authors ( [178, 336] for source 337
+In update_author_shared_sources: multiple authors ( [69, 84, 66, 23, 437] for source 346
+In update_author_shared_sources: multiple authors ( [69, 377] for source 2402
+In update_author_shared_sources: multiple authors ( [591, 394] for source 368
+In update_author_shared_sources: multiple authors ( [591, 69] for source 404
+In update_author_shared_sources: multiple authors ( [69, 217] for source 439
+In update_author_shared_sources: multiple authors ( [66, 69] for source 451
+In update_author_shared_sources: multiple authors ( [69, 217] for source 454
+In update_author_shared_sources: multiple authors ( [387, 66] for source 474
+In update_author_shared_sources: multiple authors ( [69, 30] for source 475
+In update_author_shared_sources: multiple authors ( [66, 23] for source 476
+In update_author_shared_sources: multiple authors ( [66, 23] for source 477
+In update_author_shared_sources: multiple authors ( [66, 23] for source 479
+In update_author_shared_sources: multiple authors ( [66, 23] for source 480
+In update_author_shared_sources: multiple authors ( [178, 161, 437, 66] for source 487
+In update_author_shared_sources: multiple authors ( [74, 591] for source 502
+In update_author_shared_sources: multiple authors ( [302, 425] for source 510
+In update_author_shared_sources: multiple authors ( [302, 425] for source 511
+In update_author_shared_sources: multiple authors ( [84, 66] for source 512
+In update_author_shared_sources: multiple authors ( [84, 66] for source 514
+In update_author_shared_sources: multiple authors ( [84, 66] for source 515
+In update_author_shared_sources: multiple authors ( [46, 217, 66, 3] for source 516
+In update_author_shared_sources: multiple authors ( [73, 217] for source 534
+In update_author_shared_sources: multiple authors ( [223, 36] for source 552
+In update_author_shared_sources: multiple authors ( [223, 36] for source 553
+In update_author_shared_sources: multiple authors ( [223, 36] for source 554
+In update_author_shared_sources: multiple authors ( [223, 36] for source 555
+In update_author_shared_sources: multiple authors ( [13, 161] for source 558
+In update_author_shared_sources: multiple authors ( [84, 66] for source 569
+In update_author_shared_sources: multiple authors ( [84, 599] for source 572
+In update_author_shared_sources: multiple authors ( [84, 178, 66] for source 574
+In update_author_shared_sources: multiple authors ( [66, 443] for source 2626
+In update_author_shared_sources: multiple authors ( [1082, 598] for source 598
+In update_author_shared_sources: multiple authors ( [387, 66] for source 2658
+In update_author_shared_sources: multiple authors ( [387, 66] for source 2660
+In update_author_shared_sources: multiple authors ( [161, 437, 217] for source 617
+In update_author_shared_sources: multiple authors ( [443, 66] for source 668
+In update_author_shared_sources: multiple authors ( [3, 84] for source 2729
+In update_author_shared_sources: multiple authors ( [3, 84] for source 2730
+In update_author_shared_sources: multiple authors ( [3, 84] for source 2733
+In update_author_shared_sources: multiple authors ( [3, 84] for source 2735
+In update_author_shared_sources: multiple authors ( [3, 84] for source 2736
+In update_author_shared_sources: multiple authors ( [46, 302] for source 762
+In update_author_shared_sources: multiple authors ( [84, 66] for source 769
+In update_author_shared_sources: multiple authors ( [1082, 598] for source 2893
+In update_author_shared_sources: multiple authors ( [1082, 598] for source 2895
+In update_author_shared_sources: multiple authors ( [66, 443] for source 2934
+In update_author_shared_sources: multiple authors ( [3, 84] for source 2957
+In update_author_shared_sources: multiple authors ( [2310, 66] for source 513
+In update_author_shared_sources: multiple authors ( [46, 437, 217] for source 1059
+In update_author_shared_sources: multiple authors ( [46, 3] for source 1080
+In update_author_shared_sources: multiple authors ( [23, 223] for source 184
+In update_author_shared_sources: multiple authors ( [377, 217] for source 1203
+In update_author_shared_sources: multiple authors ( [387, 66] for source 2935
+In update_author_shared_sources: multiple authors ( [73, 1655] for source 1343
+In update_author_shared_sources: multiple authors ( [69, 2614] for source 2619
+In update_author_shared_sources: multiple authors ( [217, 3] for source 1419
+In update_author_shared_sources: multiple authors ( [66, 443] for source 2627
+In update_author_shared_sources: multiple authors ( [66, 443] for source 2629
+In update_author_shared_sources: multiple authors ( [66, 443] for source 2630
+In update_author_shared_sources: multiple authors ( [73, 23] for source 1548
+In update_author_shared_sources: multiple authors ( [2310, 66] for source 2311
+In update_author_shared_sources: multiple authors ( [387, 66] for source 2655
+In update_author_shared_sources: multiple authors ( [387, 66] for source 2657
+In update_author_shared_sources: multiple authors ( [69, 377, 223] for source 1730
+In update_author_shared_sources: multiple authors ( [69, 591] for source 1732
+In update_author_shared_sources: multiple authors ( [69, 377, 437, 178] for source 1733
+In update_author_shared_sources: multiple authors ( [69, 377] for source 1734
+In update_author_shared_sources: multiple authors ( [84, 66] for source 1736
+In update_author_shared_sources: multiple authors ( [84, 66] for source 1737
+In update_author_shared_sources: multiple authors ( [73, 1655] for source 1778
+In update_author_shared_sources: multiple authors ( [84, 66, 443] for source 308
+In update_author_shared_sources: multiple authors ( [460, 332] for source 1892
+In update_author_shared_sources: multiple authors ( [437, 66] for source 1980
+
+Processed 441 Articles.
+Processed 882 Article_Data records.
+
+================================================================================
+Data for Coder index 1:
+
+==> All authors
+- author ID list = [387, 2310, 2567, 394, 652, 13, 654, 3, 46, 23, 2004, 29, 30, 417, 36, 425, 2614, 302, 178, 437, 566, 1082, 443, 377, 66, 69, 161, 73, 74, 460, 482, 591, 336, 84, 598, 599, 217, 223, 736, 2018, 743, 937, 1782, 1655, 332, 505, 703, 637]
+- author source count list = [18, 2, 0, 33, 9, 36, 3, 27, 57, 31, 4, 50, 28, 4, 31, 30, 5, 31, 41, 45, 4, 13, 43, 36, 92, 43, 37, 30, 46, 3, 1, 76, 9, 64, 21, 50, 46, 18, 2, 5, 2, 7, 4, 6, 7, 18, 2, 13]
+- author shared count list = [7, 2, 0, 2, 0, 1, 0, 9, 22, 12, 0, 2, 2, 0, 9, 2, 0, 3, 6, 13, 0, 5, 9, 10, 37, 19, 12, 10, 5, 1, 0, 6, 2, 19, 5, 4, 13, 9, 0, 0, 0, 7, 0, 6, 1, 1, 0, 0]
+- author article count list = [7, 1, 1, 8, 5, 17, 1, 13, 21, 15, 2, 18, 13, 4, 11, 10, 1, 12, 13, 15, 1, 8, 16, 17, 30, 15, 14, 12, 19, 4, 1, 25, 4, 27, 9, 17, 18, 6, 1, 1, 1, 1, 4, 1, 4, 8, 2, 4]
+- author count = 48
+- mean source count per author = 24.645833333333332
+- mean shared count per author = 5.6875
+- mean article count per author = 9.541666666666666
+
+==> Authors with shared sources
+- author ID list = [387, 2310, 394, 13, 3, 46, 23, 29, 30, 36, 425, 302, 178, 437, 1082, 443, 377, 66, 69, 161, 73, 74, 460, 591, 336, 84, 598, 599, 217, 223, 937, 1655, 332, 505]
+- author source count list = [18, 2, 33, 36, 27, 57, 31, 50, 28, 31, 30, 31, 41, 45, 13, 43, 36, 92, 43, 37, 30, 46, 3, 76, 9, 64, 21, 50, 46, 18, 7, 6, 7, 18]
+- author shared count list = [7, 2, 2, 1, 9, 22, 12, 2, 2, 9, 2, 3, 6, 13, 5, 9, 10, 37, 19, 12, 10, 5, 1, 6, 2, 19, 5, 4, 13, 9, 7, 6, 1, 1]
+- author article count list = [7, 1, 8, 17, 13, 21, 15, 18, 13, 11, 10, 12, 13, 15, 8, 16, 17, 30, 15, 14, 12, 19, 4, 25, 4, 27, 9, 17, 18, 6, 1, 1, 4, 8]
+- author count = 34
+- mean source count per author with shared sources = 33.088235294117645
+- mean shared count per author with shared sources = 8.029411764705882
+- mean article count per author = 12.617647058823529
+
+================================================================================
+Data for Coder index 2:
+
+==> All authors
+- author ID list = [387, 2310, 2567, 394, 652, 13, 654, 3, 46, 23, 2004, 29, 30, 417, 36, 425, 2614, 302, 178, 437, 566, 1082, 443, 377, 66, 69, 161, 73, 74, 460, 482, 591, 336, 84, 598, 599, 217, 223, 736, 2018, 743, 1782, 1655, 332, 505, 703, 637]
+- author source count list = [18, 2, 0, 27, 8, 39, 2, 29, 46, 33, 4, 50, 26, 4, 28, 31, 6, 31, 42, 49, 2, 15, 43, 34, 88, 45, 34, 28, 46, 4, 1, 72, 9, 69, 22, 46, 43, 13, 2, 5, 2, 4, 6, 7, 14, 2, 10]
+- author shared count list = [7, 2, 0, 2, 0, 1, 0, 12, 13, 11, 0, 0, 2, 0, 7, 3, 1, 4, 8, 10, 0, 7, 8, 9, 35, 19, 11, 10, 4, 1, 0, 6, 1, 20, 7, 3, 11, 8, 0, 0, 0, 0, 6, 1, 1, 0, 0]
+- author article count list = [7, 1, 1, 8, 5, 17, 1, 13, 20, 15, 2, 18, 13, 4, 11, 10, 1, 12, 13, 15, 1, 8, 16, 17, 30, 15, 14, 12, 19, 4, 1, 25, 4, 27, 9, 17, 18, 6, 1, 1, 1, 4, 1, 4, 8, 2, 4]
+- author count = 47
+- mean source count per author = 24.27659574468085
+- mean shared count per author = 5.340425531914893
+- mean article count per author = 9.702127659574469
+
+==> Authors with shared sources
+- author ID list = [387, 2310, 394, 13, 3, 46, 23, 30, 36, 425, 2614, 302, 178, 437, 1082, 443, 377, 66, 69, 161, 73, 74, 460, 591, 336, 84, 598, 599, 217, 223, 1655, 332, 505]
+- author source count list = [18, 2, 27, 39, 29, 46, 33, 26, 28, 31, 6, 31, 42, 49, 15, 43, 34, 88, 45, 34, 28, 46, 4, 72, 9, 69, 22, 46, 43, 13, 6, 7, 14]
+- author shared count list = [7, 2, 2, 1, 12, 13, 11, 2, 7, 3, 1, 4, 8, 10, 7, 8, 9, 35, 19, 11, 10, 4, 1, 6, 1, 20, 7, 3, 11, 8, 6, 1, 1]
+- author article count list = [7, 1, 8, 17, 13, 20, 15, 13, 11, 10, 1, 12, 13, 15, 8, 16, 17, 30, 15, 14, 12, 19, 4, 25, 4, 27, 9, 17, 18, 6, 1, 4, 8]
+- author count = 33
+- mean source count per author with shared sources = 31.666666666666668
+- mean shared count per author with shared sources = 7.606060606060606
+- mean article count per author = 12.424242424242424
