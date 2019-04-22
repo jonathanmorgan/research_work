@@ -12,8 +12,8 @@ from context_analysis.network.network_person_info import NetworkPersonInfo
 # imports
 import datetime
 
-# sourcenet imports
-from sourcenet.shared.sourcenet_base import SourcenetBase
+# context_text imports
+from context_text.shared.context_text_base import ContextTextBase
 
 # context_analysis imports
 from context_analysis.reliability.reliability_names_builder import ReliabilityNamesBuilder
@@ -55,7 +55,7 @@ my_reliability_instance = ReliabilityNamesBuilder()
 # set it up so that...
 
 # ...the ground truth user has highest priority (4) for index 1...
-current_coder = SourcenetBase.get_ground_truth_coding_user()
+current_coder = ContextTextBase.get_ground_truth_coding_user()
 current_coder_id = current_coder.id
 current_index = 1
 current_priority = 4
@@ -84,7 +84,7 @@ my_info_instance.add_coder_at_index( current_coder_id, current_index, priority_I
 my_reliability_instance.add_coder_at_index( current_coder_id, current_index, priority_IN = current_priority )
 
 # ...and automated coder (2) is index 2
-current_coder = SourcenetBase.get_automated_coding_user()
+current_coder = ContextTextBase.get_automated_coding_user()
 current_coder_id = current_coder.id
 current_index = 2
 current_priority = 1
