@@ -5,8 +5,8 @@ You must create an index-able instance and place it in my_index_instance before
     
 Objects you can pass in this instance:
 
-from sourcenet_analysis.reliability.reliability_names_builder import ReliabilityNamesBuilder
-from sourcenet_analysis.network.network_person_info import NetworkPersonInfo
+from context_analysis.reliability.reliability_names_builder import ReliabilityNamesBuilder
+from context_analysis.network.network_person_info import NetworkPersonInfo
 '''
 
 # imports
@@ -15,9 +15,9 @@ import datetime
 # sourcenet imports
 from sourcenet.shared.sourcenet_base import SourcenetBase
 
-# sourcenet_analysis imports
-from sourcenet_analysis.reliability.reliability_names_builder import ReliabilityNamesBuilder
-from sourcenet_analysis.network.network_person_info import NetworkPersonInfo
+# context_analysis imports
+from context_analysis.reliability.reliability_names_builder import ReliabilityNamesBuilder
+from context_analysis.network.network_person_info import NetworkPersonInfo
 
 # return reference
 index_helper_OUT = None
