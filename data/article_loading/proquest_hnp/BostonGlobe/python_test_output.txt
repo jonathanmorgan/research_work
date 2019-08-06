@@ -1,0 +1,523 @@
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210212722_00001.zip
+==> file: BG_20151210212722_00001.zip
+==> ID: BG_20151210212722_00001
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210212722_00001
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210212722_00001
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210212722_00001.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210212722_00001
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210212824_00002.zip
+==> file: BG_20151210212824_00002.zip
+==> ID: BG_20151210212824_00002
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210212824_00002
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210212824_00002
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210212824_00002.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210212824_00002
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210212825_00003.zip
+==> file: BG_20151210212825_00003.zip
+==> ID: BG_20151210212825_00003
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210212825_00003
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210212825_00003
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210212825_00003.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210212825_00003
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210212926_00004.zip
+==> file: BG_20151210212926_00004.zip
+==> ID: BG_20151210212926_00004
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210212926_00004
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210212926_00004
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210212926_00004.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210212926_00004
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210212927_00005.zip
+==> file: BG_20151210212927_00005.zip
+==> ID: BG_20151210212927_00005
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210212927_00005
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210212927_00005
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210212927_00005.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210212927_00005
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210213028_00006.zip
+==> file: BG_20151210213028_00006.zip
+==> ID: BG_20151210213028_00006
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213028_00006
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213028_00006
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210213028_00006.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213028_00006
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210213031_00007.zip
+==> file: BG_20151210213031_00007.zip
+==> ID: BG_20151210213031_00007
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213031_00007
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213031_00007
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210213031_00007.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213031_00007
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210213132_00008.zip
+==> file: BG_20151210213132_00008.zip
+==> ID: BG_20151210213132_00008
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213132_00008
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213132_00008
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210213132_00008.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213132_00008
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210213134_00009.zip
+==> file: BG_20151210213134_00009.zip
+==> ID: BG_20151210213134_00009
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213134_00009
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213134_00009
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210213134_00009.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213134_00009
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210213235_00010.zip
+==> file: BG_20151210213235_00010.zip
+==> ID: BG_20151210213235_00010
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213235_00010
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213235_00010
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210213235_00010.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213235_00010
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210213236_00011.zip
+==> file: BG_20151210213236_00011.zip
+==> ID: BG_20151210213236_00011
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213236_00011
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213236_00011
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210213236_00011.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213236_00011
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210213337_00012.zip
+==> file: BG_20151210213337_00012.zip
+==> ID: BG_20151210213337_00012
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213337_00012
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213337_00012
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210213337_00012.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213337_00012
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210213338_00013.zip
+==> file: BG_20151210213338_00013.zip
+==> ID: BG_20151210213338_00013
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213338_00013
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213338_00013
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210213338_00013.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213338_00013
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210213439_00014.zip
+==> file: BG_20151210213439_00014.zip
+==> ID: BG_20151210213439_00014
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213439_00014
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213439_00014
+
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210213439_00014.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213439_00014
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210213440_00015.zip
+==> file: BG_20151210213440_00015.zip
+==> ID: BG_20151210213440_00015
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213440_00015
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213440_00015
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210213440_00015.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213440_00015
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210213541_00016.zip
+==> file: BG_20151210213541_00016.zip
+==> ID: BG_20151210213541_00016
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213541_00016
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213541_00016
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210213541_00016.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210213541_00016
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214347_00001.zip
+==> file: BG_20151210214347_00001.zip
+==> ID: BG_20151210214347_00001
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214347_00001
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214347_00001
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214347_00001.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214347_00001
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214448_00002.zip
+==> file: BG_20151210214448_00002.zip
+==> ID: BG_20151210214448_00002
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214448_00002
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214448_00002
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214448_00002.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214448_00002
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214549_00003.zip
+==> file: BG_20151210214549_00003.zip
+==> ID: BG_20151210214549_00003
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214549_00003
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214549_00003
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214549_00003.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214549_00003
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214552_00004.zip
+==> file: BG_20151210214552_00004.zip
+==> ID: BG_20151210214552_00004
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214552_00004
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214552_00004
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214552_00004.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214552_00004
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214654_00005.zip
+==> file: BG_20151210214654_00005.zip
+==> ID: BG_20151210214654_00005
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214654_00005
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214654_00005
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214654_00005.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214654_00005
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214655_00006.zip
+==> file: BG_20151210214655_00006.zip
+==> ID: BG_20151210214655_00006
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214655_00006
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214655_00006
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214655_00006.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214655_00006
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214756_00007.zip
+==> file: BG_20151210214756_00007.zip
+==> ID: BG_20151210214756_00007
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214756_00007
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214756_00007
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214756_00007.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214756_00007
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214757_00008.zip
+==> file: BG_20151210214757_00008.zip
+==> ID: BG_20151210214757_00008
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214757_00008
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214757_00008
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214757_00008.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214757_00008
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214858_00009.zip
+==> file: BG_20151210214858_00009.zip
+==> ID: BG_20151210214858_00009
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214858_00009
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214858_00009
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214858_00009.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214858_00009
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214859_00010.zip
+==> file: BG_20151210214859_00010.zip
+==> ID: BG_20151210214859_00010
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214859_00010
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214859_00010
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214859_00010.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214859_00010
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214900_00011.zip
+==> file: BG_20151210214900_00011.zip
+==> ID: BG_20151210214900_00011
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214900_00011
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214900_00011
+
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214900_00011.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214900_00011
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214901_00012.zip
+==> file: BG_20151210214901_00012.zip
+==> ID: BG_20151210214901_00012
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214901_00012
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214901_00012
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214901_00012.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214901_00012
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214902_00013.zip
+==> file: BG_20151210214902_00013.zip
+==> ID: BG_20151210214902_00013
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214902_00013
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214902_00013
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210214902_00013.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210214902_00013
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210215003_00014.zip
+==> file: BG_20151210215003_00014.zip
+==> ID: BG_20151210215003_00014
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215003_00014
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215003_00014
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210215003_00014.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215003_00014
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210215004_00015.zip
+==> file: BG_20151210215004_00015.zip
+==> ID: BG_20151210215004_00015
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215004_00015
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215004_00015
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210215004_00015.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215004_00015
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210215105_00016.zip
+==> file: BG_20151210215105_00016.zip
+==> ID: BG_20151210215105_00016
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215105_00016
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215105_00016
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210215105_00016.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215105_00016
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210215106_00017.zip
+==> file: BG_20151210215106_00017.zip
+==> ID: BG_20151210215106_00017
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215106_00017
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215106_00017
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210215106_00017.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215106_00017
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210215207_00018.zip
+==> file: BG_20151210215207_00018.zip
+==> ID: BG_20151210215207_00018
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215207_00018
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215207_00018
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210215207_00018.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215207_00018
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210215208_00019.zip
+==> file: BG_20151210215208_00019.zip
+==> ID: BG_20151210215208_00019
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215208_00019
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215208_00019
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210215208_00019.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215208_00019
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210215814_00001.zip
+==> file: BG_20151210215814_00001.zip
+==> ID: BG_20151210215814_00001
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215814_00001
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215814_00001
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210215814_00001.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215814_00001
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210215915_00002.zip
+==> file: BG_20151210215915_00002.zip
+==> ID: BG_20151210215915_00002
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215915_00002
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215915_00002
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210215915_00002.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215915_00002
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210215916_00003.zip
+==> file: BG_20151210215916_00003.zip
+==> ID: BG_20151210215916_00003
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215916_00003
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215916_00003
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210215916_00003.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210215916_00003
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220019_00004.zip
+==> file: BG_20151210220019_00004.zip
+==> ID: BG_20151210220019_00004
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220019_00004
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220019_00004
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220019_00004.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220019_00004
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220121_00005.zip
+==> file: BG_20151210220121_00005.zip
+==> ID: BG_20151210220121_00005
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220121_00005
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220121_00005
+
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220121_00005.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220121_00005
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220122_00006.zip
+==> file: BG_20151210220122_00006.zip
+==> ID: BG_20151210220122_00006
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220122_00006
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220122_00006
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220122_00006.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220122_00006
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220223_00007.zip
+==> file: BG_20151210220223_00007.zip
+==> ID: BG_20151210220223_00007
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220223_00007
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220223_00007
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220223_00007.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220223_00007
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220324_00008.zip
+==> file: BG_20151210220324_00008.zip
+==> ID: BG_20151210220324_00008
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220324_00008
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220324_00008
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220324_00008.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220324_00008
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220425_00009.zip
+==> file: BG_20151210220425_00009.zip
+==> ID: BG_20151210220425_00009
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220425_00009
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220425_00009
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220425_00009.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220425_00009
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220426_00010.zip
+==> file: BG_20151210220426_00010.zip
+==> ID: BG_20151210220426_00010
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220426_00010
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220426_00010
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220426_00010.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220426_00010
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220527_00011.zip
+==> file: BG_20151210220527_00011.zip
+==> ID: BG_20151210220527_00011
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220527_00011
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220527_00011
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220527_00011.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220527_00011
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220628_00012.zip
+==> file: BG_20151210220628_00012.zip
+==> ID: BG_20151210220628_00012
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220628_00012
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220628_00012
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220628_00012.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220628_00012
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220629_00013.zip
+==> file: BG_20151210220629_00013.zip
+==> ID: BG_20151210220629_00013
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220629_00013
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220629_00013
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220629_00013.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220629_00013
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220730_00014.zip
+==> file: BG_20151210220730_00014.zip
+==> ID: BG_20151210220730_00014
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220730_00014
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220730_00014
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220730_00014.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220730_00014
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220832_00015.zip
+==> file: BG_20151210220832_00015.zip
+==> ID: BG_20151210220832_00015
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220832_00015
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220832_00015
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220832_00015.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220832_00015
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220833_00016.zip
+==> file: BG_20151210220833_00016.zip
+==> ID: BG_20151210220833_00016
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220833_00016
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220833_00016
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210220833_00016.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210220833_00016
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210221338_00001.zip
+==> file: BG_20151210221338_00001.zip
+==> ID: BG_20151210221338_00001
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221338_00001
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221338_00001
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210221338_00001.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221338_00001
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210221439_00002.zip
+==> file: BG_20151210221439_00002.zip
+==> ID: BG_20151210221439_00002
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221439_00002
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221439_00002
+
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210221439_00002.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221439_00002
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210221440_00003.zip
+==> file: BG_20151210221440_00003.zip
+==> ID: BG_20151210221440_00003
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221440_00003
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221440_00003
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210221440_00003.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221440_00003
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210221543_00004.zip
+==> file: BG_20151210221543_00004.zip
+==> ID: BG_20151210221543_00004
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221543_00004
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221543_00004
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210221543_00004.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221543_00004
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210221644_00005.zip
+==> file: BG_20151210221644_00005.zip
+==> ID: BG_20151210221644_00005
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221644_00005
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221644_00005
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210221644_00005.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221644_00005
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210221646_00006.zip
+==> file: BG_20151210221646_00006.zip
+==> ID: BG_20151210221646_00006
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221646_00006
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221646_00006
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210221646_00006.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221646_00006
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210221747_00007.zip
+==> file: BG_20151210221747_00007.zip
+==> ID: BG_20151210221747_00007
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221747_00007
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221747_00007
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210221747_00007.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221747_00007
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210221748_00008.zip
+==> file: BG_20151210221748_00008.zip
+==> ID: BG_20151210221748_00008
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221748_00008
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221748_00008
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210221748_00008.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221748_00008
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210221849_00009.zip
+==> file: BG_20151210221849_00009.zip
+==> ID: BG_20151210221849_00009
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221849_00009
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221849_00009
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210221849_00009.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221849_00009
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210221850_00010.zip
+==> file: BG_20151210221850_00010.zip
+==> ID: BG_20151210221850_00010
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221850_00010
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221850_00010
+EXTRACTED - /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210221850_00010.zip
+TO uncompressed archive folder - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221850_00010
+------------------------------
+==> path: /mnt/hgfs/projects/phd/proquest_hnp/proquest_hnp/data/BostonGlobe/BG_20151210221951_00011.zip
+==> file: BG_20151210221951_00011.zip
+==> ID: BG_20151210221951_00011
+==> TO: /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221951_00011
+CREATED - Uncompressed archive folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210221951_00011
+
+---------------------------------------------------------------------------
+KeyboardInterrupt                         Traceback (most recent call last)
+<ipython-input-11-6177015425c8> in <module>
+     60 
+     61             # unzip to uncompressed archive folder path.
+---> 62             zip_file.extractall( uc_archive_folder_path )
+     63             print( "EXTRACTED - {}".format( zip_file_path ) )
+     64             print( "TO uncompressed archive folder - {}".format( uc_archive_folder_path ) )
+
+/usr/lib/python3.6/zipfile.py in extractall(self, path, members, pwd)
+   1522 
+   1523         for zipinfo in members:
+-> 1524             self._extract_member(zipinfo, path, pwd)
+   1525 
+   1526     @classmethod
+
+/usr/lib/python3.6/zipfile.py in _extract_member(self, member, targetpath, pwd)
+   1576 
+   1577         with self.open(member, pwd=pwd) as source, \
+-> 1578              open(targetpath, "wb") as target:
+   1579             shutil.copyfileobj(source, target)
+   1580 
+
+KeyboardInterrupt: 
+
