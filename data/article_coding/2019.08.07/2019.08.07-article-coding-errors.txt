@@ -1,0 +1,299 @@
+====> Count of articles with errors: 72
+
+Error article ID: 206019
+- errors for article ID 206019:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 206019 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 206016
+- errors for article ID 206016:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 206016 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 205836
+- errors for article ID 205836:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 205836 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 204401
+- errors for article ID 204401:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 204401 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 204405
+- errors for article ID 204405:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 204405 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 204379
+- errors for article ID 204379:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 204379 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 203009
+- errors for article ID 203009:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 203009 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 202551
+- errors for article ID 202551:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 202551 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 201511
+- errors for article ID 201511:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 201511 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 201445
+- errors for article ID 201445:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 201445 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 199919
+- errors for article ID 199919:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 199919 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 199846
+- errors for article ID 199846:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 199846 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 199642
+- errors for article ID 199642:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 199642 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 199360
+- errors for article ID 199360:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 199360 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 198398
+- errors for article ID 198398:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 198398 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 198177
+- errors for article ID 198177:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 198177 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 198243
+- errors for article ID 198243:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 198243 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 197943
+- errors for article ID 197943:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 197943 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 197046
+- errors for article ID 197046:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 197046 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 196772
+- errors for article ID 196772:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 196772 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 195151
+- errors for article ID 195151:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 195151 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 194729
+- errors for article ID 194729:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 194729 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 192939
+- errors for article ID 192939:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 192939 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 192005
+- errors for article ID 192005:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 192005 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 191950
+- errors for article ID 191950:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 191950 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 191917
+- errors for article ID 191917:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 191917 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 191442
+- errors for article ID 191442:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 191442 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 190548
+- errors for article ID 190548:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 190548 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 190475
+- errors for article ID 190475:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 190475 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 189951
+- errors for article ID 189951:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 189951 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 189085
+- errors for article ID 189085:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 189085 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+
+Error article ID: 188812
+- errors for article ID 188812:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 188812 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 188768
+- errors for article ID 188768:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 188768 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 187522
+- errors for article ID 187522:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 187522 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 187448
+- errors for article ID 187448:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 187448 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 186879
+- errors for article ID 186879:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 186879 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 185822
+- errors for article ID 185822:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 185822 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 185750
+- errors for article ID 185750:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 185750 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 184641
+- errors for article ID 184641:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 184641 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 184031
+- errors for article ID 184031:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 184031 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 184057
+- errors for article ID 184057:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 184057 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 182480
+- errors for article ID 182480:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 182480 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 181931
+- errors for article ID 181931:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 181931 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 181049
+- errors for article ID 181049:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 181049 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 181039
+- errors for article ID 181039:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 181039 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 180398
+- errors for article ID 180398:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 180398 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 179388
+- errors for article ID 179388:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 179388 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 179147
+- errors for article ID 179147:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 179147 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 178750
+- errors for article ID 178750:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 178750 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 177994
+- errors for article ID 177994:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 177994 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 176420
+- errors for article ID 176420:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 176420 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 176269
+- errors for article ID 176269:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 176269 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 175801
+- errors for article ID 175801:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 175801 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 175664
+- errors for article ID 175664:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 175664 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 174560
+- errors for article ID 174560:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 174560 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 174196
+- errors for article ID 174196:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 174196 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 174125
+- errors for article ID 174125:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 174125 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 173109
+- errors for article ID 173109:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 173109 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 172814
+- errors for article ID 172814:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 172814 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 171713
+- errors for article ID 171713:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 171713 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 171613
+- errors for article ID 171613:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 171613 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 171348
+- errors for article ID 171348:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 171348 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+
+Error article ID: 170168
+- errors for article ID 170168:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 170168 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 169205
+- errors for article ID 169205:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 169205 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 169111
+- errors for article ID 169111:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 169111 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 168569
+- errors for article ID 168569:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 168569 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 374465
+- errors for article ID 374465:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 374465 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 370266
+- errors for article ID 370266:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 370266 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 370109
+- errors for article ID 370109:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 370109 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 369336
+- errors for article ID 369336:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 369336 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 368023
+- errors for article ID 368023:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 368023 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+
+Error article ID: 368125
+- errors for article ID 368125:
+----> status #1: Error: ValueError parsing OpenCalais JSON for Article 368125 - raw response body: You exceeded the concurrent request limit for your license key. Please try again later or contact support to upgrade your license.
+- Tagged article count: 0
+- Correct ArticleData count: 72
+- Has data count: 0
+- Has people count: 0
+- Has subjects count: 0
+- Has sources count: 0
+
+IDs of articles with errors: [206019, 206016, 205836, 204401, 204405, 204379, 203009, 202551, 201511, 201445, 199919, 199846, 199642, 199360, 198398, 198177, 198243, 197943, 197046, 196772, 195151, 194729, 192939, 192005, 191950, 191917, 191442, 190548, 190475, 189951, 189085, 188812, 188768, 187522, 187448, 186879, 185822, 185750, 184641, 184031, 184057, 182480, 181931, 181049, 181039, 180398, 179388, 179147, 178750, 177994, 176420, 176269, 175801, 175664, 174560, 174196, 174125, 173109, 172814, 171713, 171613, 171348, 170168, 169205, 169111, 168569, 374465, 370266, 370109, 369336, 368023, 368125]

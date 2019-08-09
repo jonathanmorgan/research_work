@@ -1,0 +1,37 @@
+XML file count: 5752
+Counters:
+- Processed 5752 files
+- No Record: 0
+- No ObjectType: 0
+- No ObjectType value: 0
+
+ObjectType values and occurrence counts:
+- A|d|v|e|r|t|i|s|e|m|e|n|t: 2114224
+- Feature|Article: 5271887
+- I|m|a|g|e|/|P|h|o|t|o|g|r|a|p|h: 249942
+- O|b|i|t|u|a|r|y: 625143
+- G|e|n|e|r|a|l| |I|n|f|o|r|m|a|t|i|o|n: 1083164
+- S|t|o|c|k| |Q|u|o|t|e: 202776
+- N|e|w|s: 140274
+- I|l|l|u|s|t|r|a|t|i|o|n: 106925
+- F|r|o|n|t| |P|a|g|e|/|C|o|v|e|r| |S|t|o|r|y: 386421
+- E|d|i|t|o|r|i|a|l| |C|a|r|t|o|o|n|/|C|o|m|i|c: 78993
+- Editorial|Commentary: 156342
+- C|r|e|d|i|t|/|A|c|k|n|o|w|l|e|d|g|e|m|e|n|t: 68356
+- Classified Advertisement|Advertisement: 291533
+- R|e|v|i|e|w: 86889
+- Table of Contents|Front Matter: 69798
+- Letter to the Editor|Correspondence: 202071
+- News|Legal Notice: 24053
+- News|Marriage Announcement: 41314
+- B|i|r|t|h| |N|o|t|i|c|e: 926
+- News|Military/War News: 3
+- U|n|d|e|f|i|n|e|d: 5
+- Article|Feature: 137526
+- Front Matter|Table of Contents: 11195
+- Commentary|Editorial: 3386
+- Marriage Announcement|News: 683
+- Correspondence|Letter to the Editor: 7479
+- Legal Notice|News: 1029
+- Advertisement|Classified Advertisement: 12163
+
