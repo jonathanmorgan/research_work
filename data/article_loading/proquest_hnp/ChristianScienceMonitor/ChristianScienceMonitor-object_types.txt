@@ -1,0 +1,21 @@
+ObjectType values and occurrence counts:
+- Feature|Article: 2995364
+- Classified Advertisement|Advertisement: 1099428
+- G|e|n|e|r|a|l| |I|n|f|o|r|m|a|t|i|o|n: 274916
+- A|d|v|e|r|t|i|s|e|m|e|n|t: 1437468
+- Editorial|Commentary: 106808
+- F|r|o|n|t| |P|a|g|e|/|C|o|v|e|r| |S|t|o|r|y: 242095
+- C|r|e|d|i|t|/|A|c|k|n|o|w|l|e|d|g|e|m|e|n|t: 79922
+- S|t|o|c|k| |Q|u|o|t|e: 94271
+- N|e|w|s: 37233
+- O|b|i|t|u|a|r|y: 3000
+- Table of Contents|Front Matter: 41833
+- News|Legal Notice: 733
+- I|l|l|u|s|t|r|a|t|i|o|n: 29076
+- E|d|i|t|o|r|i|a|l| |C|a|r|t|o|o|n|/|C|o|m|i|c: 26268
+- Letter to the Editor|Correspondence: 21107
+- B|i|r|t|h| |N|o|t|i|c|e: 43
+- News|Marriage Announcement: 26
+- U|n|d|e|f|i|n|e|d: 1062
+- R|e|v|i|e|w: 1388
+- I|m|a|g|e|/|P|h|o|t|o|g|r|a|p|h: 206
