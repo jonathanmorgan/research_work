@@ -1,0 +1,350 @@
+2019-08-11 14:12:03,105 - INFO - context_text.article_coding.article_coding - In create_article_query_set: unique_id_list_IN = []
+2019-08-11 14:12:03,105 - INFO - context_text.article_coding.article_coding - In create_article_query_set: filter_articles_params = {'start_date': None, 'end_date': None, 'date_range': None, 'newspaper_id_in_list': [], 'tags_in_list_IN': ['local_hard_news'], 'tags_not_in_list_IN': ['coded-OpenCalaisV2ArticleCoder'], 'unique_identifiers': [], 'article_id_list': [], 'section_name_list': []}
+2019-08-11 14:12:56,956 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 1: 498427 - Woman not satisfied with 911 changes - Grandmother complains about 911 call going unanswered, no cop on duty
+2019-08-11 14:12:58,432 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Ron Cammel / The Grand Rapids Press
+2019-08-11 14:13:01,269 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 4.313081
+2019-08-11 14:13:01,270 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:13:01,270 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 2: 495215 - City leaders want to talk wireless - Hearing will 'grandfather' city under new legislation for municipally-owned broadband
+systems
+
+2019-08-11 14:13:02,258 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Jim Harger / The Grand Rapids Press
+2019-08-11 14:13:02,901 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 1.630646
+2019-08-11 14:13:02,901 - INFO - context_text.article_coding.article_coding - In may_i_continue: less than 2 seconds - sleep for 0.36935399999999996 seconds.
+2019-08-11 14:13:03,273 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 3: 493935 - Josie's Hallmark closing saddens customers, workers - Owner says of retirement: 'This is just the right time to do this'
+2019-08-11 14:13:04,785 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Mary Radigan / The Grand Rapids Press
+2019-08-11 14:13:06,531 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 3.25815
+2019-08-11 14:13:06,531 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:13:06,531 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 4: 494010 - Recovering man's story offers hope to meth addicts - John McBride Jr. is first graduate of Allegan program
+2019-08-11 14:13:08,328 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Nate Reens And John Agar / The Grand Rapids Press
+2019-08-11 14:13:10,396 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 3.864684
+2019-08-11 14:13:10,396 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:13:10,396 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 5: 492016 - Longtime day-care provider dishes up monthly menu
+2019-08-11 14:13:11,596 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Janet Meana / The Grand Rapids Press
+2019-08-11 14:13:30,719 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 20.322705
+2019-08-11 14:13:30,719 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:13:30,719 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 6: 491915 - Hope women return 10 players
+2019-08-11 14:13:31,945 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Steve Kaminski / The Grand Rapids Press
+2019-08-11 14:13:34,054 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 3.334595
+2019-08-11 14:13:34,054 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:13:34,055 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 7: 490654 - 'Mama's not here, but I'm here for you' - Baby is back with dad after assault that killed mother
+2019-08-11 14:13:36,500 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Ken Kolker / The Grand Rapids Press
+2019-08-11 14:13:43,842 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 9.78744
+2019-08-11 14:13:43,843 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:13:43,843 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 8: 488827 - GM, union have deal on health costs - Automaker could save $3 billion a year
+2019-08-11 14:13:46,027 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Rick Haglund / Grand Rapids Press Detroit Bureau
+2019-08-11 14:13:47,706 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 3.862423
+2019-08-11 14:13:47,706 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:13:47,706 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 9: 487535 - Students cannot afford to lead - President, VP did not pay tuition
+2019-08-11 14:13:49,267 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Jennifer Ackerman-Haywood / The Grand Rapids Press
+2019-08-11 14:13:51,627 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 3.921449
+2019-08-11 14:13:51,628 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:13:51,628 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 10: 485793 - Universal Forest earnings rise - Sales to do-it-yourself segment were flat in third quarter
+2019-08-11 14:13:53,078 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Chris Knape / The Grand Rapids Press
+2019-08-11 14:13:53,764 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 2.135478
+2019-08-11 14:13:53,764 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:13:53,764 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 11: 484247 - Ada man takes helm of research council - Lawyer Kent J. Vana extends reach of Livonia-based organization
+2019-08-11 14:13:55,046 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Matt Vande Bunte / The Grand Rapids Press
+2019-08-11 14:13:56,974 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 3.210231
+2019-08-11 14:13:56,975 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:13:56,975 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 12: 482778 - Pre-Christmas jitters - Many retailers cut orders for holiday merchandise
+2019-08-11 14:13:59,056 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Rob Kirkbride / The Grand Rapids Press
+2019-08-11 14:14:01,757 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 4.781637
+2019-08-11 14:14:01,757 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:14:01,757 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 13: 481674 - U-M rises to the occasion - Running back, kicker help win back-and-forth struggle
+2019-08-11 14:14:03,985 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: David Mayo / The Grand Rapids Press
+2019-08-11 14:14:08,527 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 6.770017
+2019-08-11 14:14:08,527 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:14:08,527 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 14: 481120 - Allegan church displays Ten Commandments - Family of late congregation member donates monument
+2019-08-11 14:14:09,948 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Gary W. Morrison / The Grand Rapids Press
+2019-08-11 14:14:11,347 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 2.819932
+2019-08-11 14:14:11,348 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:14:11,348 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 15: 479577 - Teaching and cleaning classrooms: Allendale teachers to add duties - Lower student enrollment forces schools to lay off custodians
+2019-08-11 14:14:12,690 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Janet Meana / The Grand Rapids Press
+2019-08-11 14:14:13,687 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 2.338904
+2019-08-11 14:14:13,687 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:14:13,687 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 16: 478750 - Ionia High band steps into Gator Bowl show - 105-member group will perform at halftime of the game Jan. 2
+2019-08-11 14:14:15,043 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Susie Fair / The Grand Rapids Press
+2019-08-11 14:14:15,577 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 1.890355
+2019-08-11 14:14:15,578 - INFO - context_text.article_coding.article_coding - In may_i_continue: less than 2 seconds - sleep for 0.10964499999999999 seconds.
+2019-08-11 14:14:15,688 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 17: 478464 - Garden Club honored for restoration
+2019-08-11 14:14:16,765 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Shandra Martinez / The Grand Rapids Press
+2019-08-11 14:14:17,234 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 1.5454940000000001
+2019-08-11 14:14:17,234 - INFO - context_text.article_coding.article_coding - In may_i_continue: less than 2 seconds - sleep for 0.45450599999999985 seconds.
+2019-08-11 14:14:17,690 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 18: 476849 - Dux surprised everyone
+2019-08-11 14:14:18,729 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Cris Greer / The Grand Rapids Press
+2019-08-11 14:14:18,858 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 1.167961
+2019-08-11 14:14:18,858 - INFO - context_text.article_coding.article_coding - In may_i_continue: less than 2 seconds - sleep for 0.832039 seconds.
+2019-08-11 14:14:19,693 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 19: 477282 - Residents to sound off over lifestyle center
+2019-08-11 14:14:20,915 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Rick Wilson / The Grand Rapids Press
+2019-08-11 14:14:21,914 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 2.221767
+2019-08-11 14:14:21,915 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:14:21,915 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 20: 476013 - Peninsular Club to get makeover - Club mixes old and new in renovations
+2019-08-11 14:14:23,733 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Mary Radigan / The Grand Rapids Press
+2019-08-11 14:14:25,051 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 3.136416
+2019-08-11 14:14:25,051 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:14:25,051 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 21: 475731 - Proposed bypass would take years - MDOT considers building $900 billion project in segments
+2019-08-11 14:14:26,423 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: John Tunison / The Grand Rapids Press
+2019-08-11 14:14:27,304 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 2.252227
+2019-08-11 14:14:27,304 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:14:27,304 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 22: 472632 - YWCA violence shelter staffers getting crash course in Spanish - Basic communication, not fluency, is the goal
+2019-08-11 14:14:28,404 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Morgan Jarema / The Grand Rapids Press
+2019-08-11 14:14:29,119 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 1.815309
+2019-08-11 14:14:29,120 - INFO - context_text.article_coding.article_coding - In may_i_continue: less than 2 seconds - sleep for 0.18469099999999994 seconds.
+2019-08-11 14:14:29,305 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 23: 471514 - Lakeshore agencies coordinate relief efforts - Monetary donations needed; aid won't go to administration
+2019-08-11 14:14:30,241 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Shandra Martinez / The Grand Rapids Press
+2019-08-11 14:14:30,928 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 1.6229719999999999
+2019-08-11 14:14:30,928 - INFO - context_text.article_coding.article_coding - In may_i_continue: less than 2 seconds - sleep for 0.37702800000000014 seconds.
+2019-08-11 14:14:31,308 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 24: 471009 - Streak pushes Panthers to win - 13-point run is too much for Maroons
+2019-08-11 14:14:32,469 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Steve Kaminski / The Grand Rapids Press
+2019-08-11 14:14:33,819 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 2.511727
+2019-08-11 14:14:33,820 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:14:33,820 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 25: 469729 - Perrigo merger in pain - Allegan, Israeli counterparts meet amid rumors, potential court case
+2019-08-11 14:14:35,090 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Julia Bauer / The Grand Rapids Press
+2019-08-11 14:14:35,921 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 2.100855
+2019-08-11 14:14:35,921 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:14:35,921 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 26: 468308 - Baptist church gets new home, name - Congregation sold building to Cornerstone
+2019-08-11 14:14:37,118 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Ron Cammel / The Grand Rapids Press
+2019-08-11 14:14:37,974 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 2.053032
+2019-08-11 14:14:37,974 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:14:37,975 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 27: 468306 - 'I watch TV all day just for a glimpse of him' - GVSU professor awaits word from father, 78, in New Orleans
+2019-08-11 14:14:39,235 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Ed White / The Grand Rapids Press
+2019-08-11 14:14:40,879 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 2.90453
+2019-08-11 14:14:40,879 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:14:40,879 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 28: 467357 - Bill aims to keep sex offenders from kids - Granholm expected to sign the measure
+2019-08-11 14:14:41,840 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: David Eggert / The Grand Rapids Press
+2019-08-11 14:14:42,993 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 2.113226
+2019-08-11 14:14:42,993 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:14:42,993 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 29: 466539 - Students soon may bring laptops to school - Appropriate use could become an issue
+2019-08-11 14:14:44,066 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Juanita Westaby / The Grand Rapids Press
+2019-08-11 14:14:45,014 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 2.020882
+2019-08-11 14:14:45,014 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:14:45,014 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 30: 462148 - Reports show confusion in police shooting - Armed man was not wearing glasses; cops unsure if they identified themselves
+2019-08-11 14:14:47,560 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Ken Kolker / The Grand Rapids Press
+2019-08-11 14:14:53,832 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 8.817446
+2019-08-11 14:14:53,832 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:14:53,832 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 31: 461033 - Groups grab at state revenue growth - Governor, lawmakers still differ on spending plans
+2019-08-11 14:14:54,885 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Peter Luke / Grand Rapids Press Lansing Bureau
+2019-08-11 14:14:55,654 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 1.821549
+2019-08-11 14:14:55,654 - INFO - context_text.article_coding.article_coding - In may_i_continue: less than 2 seconds - sleep for 0.17845099999999992 seconds.
+2019-08-11 14:14:55,833 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 32: 459588 - Board set to make decision about buildings' sale - Jubilee Ministries increases offer to $775,000 for E.E. Fell and Community
+Education
+
+2019-08-11 14:14:56,923 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Myron Kukla / The Grand Rapids Press
+2019-08-11 14:14:58,265 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 2.431765
+2019-08-11 14:14:58,265 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:14:58,266 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 33: 455963 - Five schools achieve AYP, removed from 'failing' list - Elementaries boost MEAP scores two years in a row to fulfill Adequate
+Yearly Progress mandate
+
+2019-08-11 14:14:59,516 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Barton Deiters / The Grand Rapids Press
+2019-08-11 14:15:00,937 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 2.671159
+2019-08-11 14:15:00,937 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:15:00,938 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 34: 455290 - Changes don't bring vote rush - Grand Rapids turnout is 11 percent; Wyoming draws 15 percent
+2019-08-11 14:15:02,249 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Jim Harger / The Grand Rapids Press
+2019-08-11 14:15:04,867 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 3.929405
+2019-08-11 14:15:04,867 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:15:04,867 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 35: 451730 - Film on Dutch service brings crew to town
+2019-08-11 14:15:06,551 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Danielle Quisenberry / The Grand Rapids Press
+2019-08-11 14:15:08,600 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 3.732175
+2019-08-11 14:15:08,600 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:15:08,600 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 36: 450750 - EGR debates closing times - Grill owner pushes to stay open past law's 11 p.m. lights out
+2019-08-11 14:15:09,798 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Juanita Westaby / The Grand Rapids Press
+2019-08-11 14:15:11,132 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 2.532598
+2019-08-11 14:15:11,133 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:15:11,133 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 37: 447657 - Shared backyard builds sense of community - Southeast Side man offers a haven for gardeners
+2019-08-11 14:15:13,118 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Pat Shellenbarger / The Grand Rapids Press
+2019-08-11 14:15:23,138 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 12.005001
+2019-08-11 14:15:23,138 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:15:23,138 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 38: 446683 - Ministry uses Bible principles to train horses - Sermon on the Mount works to help relationships develop
+2019-08-11 14:15:24,131 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Gary W. Morrison / The Grand Rapids Press
+2019-08-11 14:15:26,051 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 2.912753
+2019-08-11 14:15:26,051 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:15:26,052 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 39: 445436 - 'It was just a free-fall' - Window screwed shut after tot survives 4-story fall
+2019-08-11 14:15:28,170 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Ken Kolker / The Grand Rapids Press
+2019-08-11 14:15:35,962 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 9.91084
+2019-08-11 14:15:35,963 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:15:35,963 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 40: 444966 - New airport shuttle service links Lakeshore to big cities - Round trip to Ford Airport costs $65, while to Midway it costs
+$210
+
+2019-08-11 14:15:38,264 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Myron Kukla / The Grand Rapids Press
+2019-08-11 14:15:40,822 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 4.859111
+2019-08-11 14:15:40,822 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:15:40,822 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 41: 443966 - States circle wagons on fresh water - But will they win out politically over the ever-growing West?
+2019-08-11 14:15:42,837 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Peter Luke / Grand Rapids Press Lansing Bureau
+2019-08-11 14:15:43,762 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 2.940119
+2019-08-11 14:15:43,763 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:15:43,763 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 42: 443018 - IMAX to show how teacher spent vacation - Zeeland instructor travels to Wisconsin, Hawaii as part of nationwide teaching effort
+2019-08-11 14:15:45,054 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Kym Reinstadler / The Grand Rapids Press
+2019-08-11 14:15:46,867 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 3.104545
+2019-08-11 14:15:46,868 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:15:46,868 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 43: 441222 - Another threat? Suspect won't rule it out - Cedar Springs man's admission holds up sentencing in D.C.
+2019-08-11 14:15:48,595 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Sarah Kellogg / Grand Rapids Press Washington Bureau
+2019-08-11 14:15:51,872 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 5.004035
+2019-08-11 14:15:51,872 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:15:51,872 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 44: 440835 - Smokers burned out on tobacco tax - Cigarette sales drop; stores struggle against internet sales, smugglers
+2019-08-11 14:15:53,133 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Chris Knape / The Grand Rapids Press
+2019-08-11 14:15:54,722 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 2.8497630000000003
+2019-08-11 14:15:54,722 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:15:54,722 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 45: 440525 - Kent County Republicans move HQ across river - West Side location chosen over several suburban sites
+2019-08-11 14:15:55,880 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Steven Harmon / The Grand Rapids Press
+2019-08-11 14:15:57,118 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 2.395291
+2019-08-11 14:15:57,118 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:15:57,118 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 46: 400853 - Panel to study centralized 911 dispatch
+2019-08-11 14:15:58,388 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Kyla King / The Grand Rapids Press
+2019-08-11 14:15:59,403 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 2.284957
+2019-08-11 14:15:59,403 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 14:15:59,404 - INFO - context_text.article_coding.article_coding - ==> Articles processed: 46
+==> Error count: 0
+==> Exception count: 0
+==> Start time: 2019-08-11 14:12:56.640613
+==> End time: 2019-08-11 14:15:59.403946
+==> Duration: 0:03:02.763333
+
+2019-08-11 14:17:19,693 - INFO - newsbank-article_coding - 
+
+====> Count of articles successfully processed: 46
+2019-08-11 14:17:21,103 - INFO - newsbank-article_coding - - Tagged article count: 46
+2019-08-11 14:17:21,104 - INFO - newsbank-article_coding - - Correct ArticleData count: 46
+2019-08-11 14:17:21,105 - INFO - newsbank-article_coding - - Has data count: 46
+2019-08-11 14:17:21,106 - INFO - newsbank-article_coding - - Has people count: 45
+2019-08-11 14:17:21,107 - INFO - newsbank-article_coding - - Has subjects count: 30
+2019-08-11 14:17:21,108 - INFO - newsbank-article_coding - - Has sources count: 45
+2019-08-11 14:17:29,027 - INFO - newsbank-article_coding - NO ERRORS!  YAY!
+2019-08-11 14:17:34,557 - INFO - newsbank-article_coding - STILL NO ERRORS!  YAY!
