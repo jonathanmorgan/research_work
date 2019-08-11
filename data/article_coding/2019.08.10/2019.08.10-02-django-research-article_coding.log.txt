@@ -1,0 +1,55 @@
+2019-08-11 02:04:08,977 - INFO - context_text.article_coding.article_coding - In create_article_query_set: unique_id_list_IN = []
+2019-08-11 02:04:08,978 - INFO - context_text.article_coding.article_coding - In create_article_query_set: filter_articles_params = {'start_date': None, 'end_date': None, 'date_range': None, 'newspaper_id_in_list': [], 'tags_in_list_IN': ['local_hard_news'], 'tags_not_in_list_IN': ['coded-OpenCalaisV2ArticleCoder'], 'unique_identifiers': [], 'article_id_list': [], 'section_name_list': []}
+2019-08-11 02:04:35,027 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 1: 279271 - Substitutes go private - School board approves no-bid, 'muddied' deal for teachers
+2019-08-11 02:04:41,363 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Dave Murray / The Grand Rapids Press
+2019-08-11 02:04:43,602 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 8.575365
+2019-08-11 02:04:43,602 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 02:04:43,602 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 2: 279212 - Teen's words provide comfort - Grieving family, school find solace in knowing 'God's will is done'
+2019-08-11 02:04:44,919 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Theresa D. McClellan / The Grand Rapids Press
+2019-08-11 02:04:48,366 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 4.7635380000000005
+2019-08-11 02:04:48,366 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 02:04:48,366 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 3: 276322 - Nude dancer law back in commissioners' laps - At least one wants wording changed in proposed ordinance
+2019-08-11 02:04:49,217 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Jim Harger / The Grand Rapids Press
+2019-08-11 02:04:50,089 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 1.723027
+2019-08-11 02:04:50,089 - INFO - context_text.article_coding.article_coding - In may_i_continue: less than 2 seconds - sleep for 0.2769729999999999 seconds.
+2019-08-11 02:04:50,367 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 4: 276331 - Grieving family full of questions - Mom wants to know more about party where girl inhaled aerosol fumes
+2019-08-11 02:04:51,632 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Nate Reens / The Grand Rapids Press
+2019-08-11 02:04:52,731 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 2.363875
+2019-08-11 02:04:52,731 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 02:04:52,731 - INFO - context_text.article_coding.article_coding - 
+
+============================================================
+==> article 5: 276443 - Reservist graduates early to Iraq - Cornerstone makes sure Shawn Cooper gets degree before deploying
+2019-08-11 02:04:54,124 - INFO - context_text.article_coding.open_calais_v2.open_calais_v2_article_coder - Article author string: Kyla King / The Grand Rapids Press
+2019-08-11 02:04:55,194 - INFO - context_text.article_coding.article_coding - In may_i_continue: time elapsed = 2.463119
+2019-08-11 02:04:55,194 - INFO - context_text.article_coding.article_coding - In may_i_continue: greater than 2 seconds - OK to continue.
+2019-08-11 02:04:55,194 - INFO - context_text.article_coding.article_coding - ==> Articles processed: 5
+==> Error count: 0
+==> Exception count: 0
+==> Start time: 2019-08-11 02:04:33.981248
+==> End time: 2019-08-11 02:04:55.194892
+==> Duration: 0:00:21.213644
+
+2019-08-11 02:05:50,757 - INFO - newsbank-article_coding - 
+
+====> Count of articles successfully processed: 5
+2019-08-11 02:05:50,858 - INFO - newsbank-article_coding - - Tagged article count: 5
+2019-08-11 02:05:50,859 - INFO - newsbank-article_coding - - Correct ArticleData count: 5
+2019-08-11 02:05:50,859 - INFO - newsbank-article_coding - - Has data count: 5
+2019-08-11 02:05:50,860 - INFO - newsbank-article_coding - - Has people count: 5
+2019-08-11 02:05:50,861 - INFO - newsbank-article_coding - - Has subjects count: 5
+2019-08-11 02:05:50,862 - INFO - newsbank-article_coding - - Has sources count: 5
+2019-08-11 02:06:13,997 - INFO - newsbank-article_coding - NO ERRORS!  YAY!
+2019-08-11 02:06:41,105 - INFO - newsbank-article_coding - STILL NO ERRORS!  YAY!
