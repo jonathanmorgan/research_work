@@ -1,0 +1,71 @@
+2019-08-17 03:18:57,925 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - Processing 194 XML folders in /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday
+2019-08-17 03:18:57,926 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - ==> Processing XML folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006220113_00001 ( 1 of 194 ) @ 2019-08-17 03:18:57.926328
+2019-08-17 03:19:05,509 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper -  In summarize_archive_files: Processing 25000 XML files in /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006220113_00001
+2019-08-17 03:19:05,509 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - ----> XML file count: 25000
+2019-08-17 03:20:20,936 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - 
+Counters:
+2019-08-17 03:20:20,936 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - Processed 25000 files
+2019-08-17 03:20:20,936 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - No Record: 0
+2019-08-17 03:20:20,937 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - No ObjectType: 0
+2019-08-17 03:20:20,937 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - No ObjectType value: 0
+2019-08-17 03:20:20,937 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - 
+ObjectType values and occurrence counts:
+2019-08-17 03:20:20,937 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - A|d|v|e|r|t|i|s|e|m|e|n|t: 6604
+2019-08-17 03:20:20,937 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - G|e|n|e|r|a|l| |I|n|f|o|r|m|a|t|i|o|n: 1473
+2019-08-17 03:20:20,937 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - Feature|Article: 10339
+2019-08-17 03:20:20,937 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - Classified Advertisement|Advertisement: 1832
+2019-08-17 03:20:20,937 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - Editorial|Commentary: 163
+2019-08-17 03:20:20,937 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - I|m|a|g|e|/|P|h|o|t|o|g|r|a|p|h: 1342
+2019-08-17 03:20:20,937 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - B|i|r|t|h| |N|o|t|i|c|e: 50
+2019-08-17 03:20:20,937 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - F|r|o|n|t| |P|a|g|e|/|C|o|v|e|r| |S|t|o|r|y: 222
+2019-08-17 03:20:20,937 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - I|l|l|u|s|t|r|a|t|i|o|n: 992
+2019-08-17 03:20:20,937 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - Table of Contents|Front Matter: 120
+2019-08-17 03:20:20,937 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - C|r|e|d|i|t|/|A|c|k|n|o|w|l|e|d|g|e|m|e|n|t: 115
+2019-08-17 03:20:20,937 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - E|d|i|t|o|r|i|a|l| |C|a|r|t|o|o|n|/|C|o|m|i|c: 121
+2019-08-17 03:20:20,938 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - News|Marriage Announcement: 564
+2019-08-17 03:20:20,938 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - News|Legal Notice: 361
+2019-08-17 03:20:20,938 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - S|t|o|c|k| |Q|u|o|t|e: 27
+2019-08-17 03:20:20,938 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - N|e|w|s: 190
+2019-08-17 03:20:20,938 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - O|b|i|t|u|a|r|y: 254
+2019-08-17 03:20:20,938 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - Letter to the Editor|Correspondence: 191
+2019-08-17 03:20:20,938 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - R|e|v|i|e|w: 35
+2019-08-17 03:20:20,938 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - News|Military/War News: 3
+2019-08-17 03:20:20,938 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - Article|Feature: 2
+2019-08-17 03:20:21,067 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - ----> Processing complete @ 2019-08-17 03:20:21.066952 ( duration 0:01:23.140624 )
+
+2019-08-17 03:20:21,067 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - ==> Processing XML folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006220215_00002 ( 2 of 194 ) @ 2019-08-17 03:20:21.067349
+2019-08-17 03:20:28,741 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper -  In summarize_archive_files: Processing 25000 XML files in /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006220215_00002
+2019-08-17 03:20:28,742 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - ----> XML file count: 25000
+2019-08-17 03:21:45,730 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - 
+Counters:
+2019-08-17 03:21:45,730 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - Processed 25000 files
+2019-08-17 03:21:45,730 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - No Record: 0
+2019-08-17 03:21:45,730 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - No ObjectType: 0
+2019-08-17 03:21:45,730 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - No ObjectType value: 0
+2019-08-17 03:21:45,730 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - 
+ObjectType values and occurrence counts:
+2019-08-17 03:21:45,730 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - Feature|Article: 10451
+2019-08-17 03:21:45,730 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - Table of Contents|Front Matter: 115
+2019-08-17 03:21:45,730 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - News|Marriage Announcement: 579
+2019-08-17 03:21:45,731 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - G|e|n|e|r|a|l| |I|n|f|o|r|m|a|t|i|o|n: 1433
+2019-08-17 03:21:45,731 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - A|d|v|e|r|t|i|s|e|m|e|n|t: 6603
+2019-08-17 03:21:45,731 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - Editorial|Commentary: 153
+2019-08-17 03:21:45,731 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - I|m|a|g|e|/|P|h|o|t|o|g|r|a|p|h: 1311
+2019-08-17 03:21:45,731 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - C|r|e|d|i|t|/|A|c|k|n|o|w|l|e|d|g|e|m|e|n|t: 115
+2019-08-17 03:21:45,731 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - I|l|l|u|s|t|r|a|t|i|o|n: 946
+2019-08-17 03:21:45,731 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - F|r|o|n|t| |P|a|g|e|/|C|o|v|e|r| |S|t|o|r|y: 209
+2019-08-17 03:21:45,731 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - Classified Advertisement|Advertisement: 1864
+2019-08-17 03:21:45,731 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - Letter to the Editor|Correspondence: 200
+2019-08-17 03:21:45,731 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - O|b|i|t|u|a|r|y: 253
+2019-08-17 03:21:45,731 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - E|d|i|t|o|r|i|a|l| |C|a|r|t|o|o|n|/|C|o|m|i|c: 109
+2019-08-17 03:21:45,731 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - N|e|w|s: 198
+2019-08-17 03:21:45,731 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - News|Legal Notice: 342
+2019-08-17 03:21:45,731 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - R|e|v|i|e|w: 46
+2019-08-17 03:21:45,731 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - B|i|r|t|h| |N|o|t|i|c|e: 57
+2019-08-17 03:21:45,732 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - S|t|o|c|k| |Q|u|o|t|e: 13
+2019-08-17 03:21:45,732 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - - News|Military/War News: 3
+2019-08-17 03:21:45,772 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - ----> Processing complete @ 2019-08-17 03:21:45.772770 ( duration 0:01:24.705421 )
+
+2019-08-17 03:21:45,773 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - ==> Processing XML folder /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006220218_00003 ( 3 of 194 ) @ 2019-08-17 03:21:45.773177
+2019-08-17 03:21:53,436 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper -  In summarize_archive_files: Processing 25000 XML files in /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006220218_00003
+2019-08-17 03:21:53,436 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - ----> XML file count: 25000
