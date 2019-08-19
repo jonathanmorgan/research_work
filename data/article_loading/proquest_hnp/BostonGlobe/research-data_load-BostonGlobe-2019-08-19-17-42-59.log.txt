@@ -1,0 +1,426 @@
+2019-08-19 17:43:16,047 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - Processing 5752 XML files in /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001
+2019-08-19 17:43:16,047 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - ----> XML file count: 5752
+2019-08-19 17:43:33,595 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - 
+In map_archive_folder_files_to_types:
+XML file count: 5752
+Counters:
+- Processed 5752 files
+- No Record: 0
+- No ObjectType: 0
+- No ObjectType value: 0
+
+ObjectType values and occurrence counts:
+- Advertisement|Classified Advertisement - 413 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821316533.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821332621.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821337723.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821337993.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821344353.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821349823.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821349963.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821350223.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821350543.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821350643.xml
+- Article|Feature - 1792 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821304313.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821304933.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821306103.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821311973.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821314373.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821316133.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821321503.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821321543.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821324923.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821325773.xml
+- A|d|v|e|r|t|i|s|e|m|e|n|t - 1902 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821303213.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821308373.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821308753.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821311463.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821313343.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821315353.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821317523.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821317793.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821322353.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821333353.xml
+- Commentary|Editorial - 36 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821310603.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821392953.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821395941.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821405582.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821408861.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821411424.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821426773.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821432384.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821436742.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821437502.xml
+- Correspondence|Letter to the Editor - 119 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821332423.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821350163.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821352901.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821353523.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821372283.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821373543.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821389763.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821391064.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821401521.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821402851.xml
+- C|r|e|d|i|t|/|A|c|k|n|o|w|l|e|d|g|e|m|e|n|t - 30 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821401604.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821409394.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821411604.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821418791.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821424744.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821425134.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821437821.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821440061.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821446163.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821448833.xml
+- E|d|i|t|o|r|i|a|l| |C|a|r|t|o|o|n|/|C|o|m|i|c - 31 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821323263.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821398994.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821405091.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821407484.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821408624.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821413352.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821418574.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821430494.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821431482.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821438041.xml
+- Front Matter|Table of Contents - 193 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821333563.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821341793.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821346043.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821365223.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821368313.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821377013.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821383363.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821384293.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821392764.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821394211.xml
+- F|r|o|n|t| |P|a|g|e|/|C|o|v|e|r| |S|t|o|r|y - 107 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821344363.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821375673.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821390223.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821400492.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821401631.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821404652.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821408662.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821411114.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821411483.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821413003.xml
+- G|e|n|e|r|a|l| |I|n|f|o|r|m|a|t|i|o|n - 488 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821310653.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821346213.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821346801.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821346953.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821350383.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821350631.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821359833.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821360263.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821360543.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821361013.xml
+- I|l|l|u|s|t|r|a|t|i|o|n - 91 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821388801.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821389713.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821390221.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821394563.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821395172.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821395624.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821399082.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821400381.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821401941.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821404384.xml
+- I|m|a|g|e|/|P|h|o|t|o|g|r|a|p|h - 84 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821357583.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821376333.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821385583.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821400371.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821402962.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821409344.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821413144.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821415283.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821418353.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821420384.xml
+- Marriage Announcement|News - 6 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821372193.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821387193.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821394901.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821433504.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821527001.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821561264.xml
+- News|Legal Notice - 17 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821402924.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821418002.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821443272.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821446542.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821459429.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821459551.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821461143.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821463533.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821467293.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821471229.xml
+- N|e|w|s - 53 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821305123.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821369093.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821399692.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821401731.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821402673.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821418082.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821418141.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821420464.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821438982.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821439271.xml
+- O|b|i|t|u|a|r|y - 72 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821334113.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821346203.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821360043.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821371413.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821374163.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821390231.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821390243.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821401342.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821402843.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821405241.xml
+- R|e|v|i|e|w - 133 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821390153.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821390971.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821395433.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821399753.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821400112.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821402671.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821406301.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821406524.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821406572.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821406713.xml
+- S|t|o|c|k| |Q|u|o|t|e - 185 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821313643.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821346821.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821351141.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821360083.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821369123.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821381143.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821390301.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821390964.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821395543.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20171002210239_00001/1821395683.xml
+2019-08-19 17:43:40,528 - DEBUG - parso.cache - pickle loaded: /home/jonathanmorgan/.virtualenvs/research/lib/python3.6/site-packages/jedi/third_party/typeshed/stdlib/2and3/builtins.pyi
+2019-08-19 17:43:40,546 - DEBUG - parso.cache - pickle loaded: /home/jonathanmorgan/work/django/research/python_utilities/logging/logging_helper.py
+2019-08-19 17:43:40,558 - DEBUG - parso.cache - pickle loaded: /home/jonathanmorgan/work/django/research/context/shared/context_base.py
+2019-08-19 17:43:40,566 - DEBUG - parso.cache - pickle loaded: /home/jonathanmorgan/work/django/research/python_utilities/exceptions/exception_helper.py
+2019-08-19 18:01:33,804 - DEBUG - parso.python.diff - diff parser start
+2019-08-19 18:01:33,805 - DEBUG - parso.python.diff - line_lengths old: 2; new: 2
+2019-08-19 18:01:33,805 - DEBUG - parso.python.diff - -> code[replace] old[1:2] new[1:2]
+2019-08-19 18:01:33,807 - DEBUG - parso.python.diff - parse_part from 1 to 2 (to 1 in part parser)
+2019-08-19 18:01:33,807 - DEBUG - parso.python.diff - diff parser end
+2019-08-19 18:01:33,960 - DEBUG - parso.cache - pickle loaded: /home/jonathanmorgan/.virtualenvs/research/lib/python3.6/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2019-08-19 19:20:46,233 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - Processing 25000 XML files in /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004
+2019-08-19 19:20:46,233 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - ----> XML file count: 25000
+2019-08-19 19:22:14,842 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - 
+In map_archive_folder_files_to_types:
+XML file count: 25000
+Counters:
+- Processed 25000 files
+- No Record: 0
+- No ObjectType: 0
+- No ObjectType value: 0
+
+ObjectType values and occurrence counts:
+- A|d|v|e|r|t|i|s|e|m|e|n|t - 5064 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367108498.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367113258.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367114973.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367138572.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367139373.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367148533.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367151333.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367152451.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367155173.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367161733.xml
+- Classified Advertisement|Advertisement - 833 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367135613.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367156891.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367165491.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367179131.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367194492.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367194933.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367198093.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367208253.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367212933.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367224532.xml
+- C|r|e|d|i|t|/|A|c|k|n|o|w|l|e|d|g|e|m|e|n|t - 220 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367150131.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367153213.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367168693.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367200293.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367203893.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367205573.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367208453.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367223892.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375314374.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375336614.xml
+- Editorial|Commentary - 190 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367191412.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367202138.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367209092.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367252451.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375335978.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375350651.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375358372.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375381615.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375393738.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375426696.xml
+- E|d|i|t|o|r|i|a|l| |C|a|r|t|o|o|n|/|C|o|m|i|c - 262 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367179293.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367236653.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367254613.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367335853.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375319611.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375341452.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375345532.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375351893.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375358936.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375368411.xml
+- Feature|Article - 9363 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367091933.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367100813.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367105818.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367108493.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367114133.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367121378.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367135892.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367138693.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367139452.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367144811.xml
+- F|r|o|n|t| |P|a|g|e|/|C|o|v|e|r| |S|t|o|r|y - 585 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367156893.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367161971.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367184372.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367197732.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367214973.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367272774.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367352051.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367353493.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375311372.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375328012.xml
+- G|e|n|e|r|a|l| |I|n|f|o|r|m|a|t|i|o|n - 2775 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367141853.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367149173.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367154451.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367157091.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367162253.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367163811.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367164293.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367164853.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367169533.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367169653.xml
+- I|l|l|u|s|t|r|a|t|i|o|n - 193 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367186492.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367201893.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367212773.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367348253.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375313091.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375315891.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375332211.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375354295.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375358415.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375359732.xml
+- I|m|a|g|e|/|P|h|o|t|o|g|r|a|p|h - 919 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367088573.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367139813.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367141931.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367171773.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367171891.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367184413.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367193612.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367195291.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367199573.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367207373.xml
+- Letter to the Editor|Correspondence - 747 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367131932.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367141612.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367187773.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367190733.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367196052.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367200413.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367223692.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367228373.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367232971.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367272692.xml
+- News|Legal Notice - 38 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367177773.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367209851.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375333132.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375372251.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/503551974.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/503653379.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/503694897.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/503719290.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/504813459.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/504817103.xml
+- News|Marriage Announcement - 63 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375312814.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375406456.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375414175.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375422698.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375433697.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375449056.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375459933.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/503495334.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/503513655.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/503567179.xml
+- N|e|w|s - 92 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375322852.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375333614.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375347811.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375358971.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375362575.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375367615.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375373011.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375375818.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375386092.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375387537.xml
+- O|b|i|t|u|a|r|y - 2579 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367105773.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367148933.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367150613.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367151733.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367158013.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367159291.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367163091.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367163413.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367174333.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367176973.xml
+- R|e|v|i|e|w - 199 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367174773.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367197773.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367201018.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367226652.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367338251.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375342412.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375380896.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375382578.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375382974.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375383255.xml
+- S|t|o|c|k| |Q|u|o|t|e - 684 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367165451.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367176013.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367176291.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367177531.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367180293.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367194972.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367195493.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367201533.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367205331.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367207973.xml
+- Table of Contents|Front Matter - 194 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367186893.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367189333.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367240733.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367274973.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/367302451.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375323935.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375349735.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375368298.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375377615.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/BostonGlobe/BG_20151210230044_00004/375392054.xml

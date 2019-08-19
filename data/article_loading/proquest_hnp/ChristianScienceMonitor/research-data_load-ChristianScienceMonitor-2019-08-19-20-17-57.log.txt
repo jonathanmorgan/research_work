@@ -1,0 +1,146 @@
+2019-08-19 20:18:23,569 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - Processing 13761 XML files in /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001
+2019-08-19 20:18:23,571 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - ----> XML file count: 13761
+2019-08-19 20:19:12,902 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - 
+In map_archive_folder_files_to_types:
+XML file count: 13761
+Counters:
+- Processed 13761 files
+- No Record: 0
+- No ObjectType: 0
+- No ObjectType value: 0
+
+ObjectType values and occurrence counts:
+- A|d|v|e|r|t|i|s|e|m|e|n|t - 826 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513134562.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513139205.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513139556.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513142351.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513142958.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513143345.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513143512.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513144297.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513144312.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513144594.xml
+- Classified Advertisement|Advertisement - 77 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513145466.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513149124.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513149957.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513151482.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513151914.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513153798.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513154574.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513155631.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513158332.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513160379.xml
+- C|r|e|d|i|t|/|A|c|k|n|o|w|l|e|d|g|e|m|e|n|t - 500 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513134811.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513135869.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513141570.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513141680.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513142087.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513142310.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513142549.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513143096.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513144240.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513144757.xml
+- Editorial|Commentary - 491 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513134244.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513136153.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513139419.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513139764.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513140657.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513141809.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513143451.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513143475.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513143729.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513144190.xml
+- E|d|i|t|o|r|i|a|l| |C|a|r|t|o|o|n|/|C|o|m|i|c - 275 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513134323.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513139864.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513142005.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513142607.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513144242.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513145495.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513146247.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513147565.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513148368.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513148513.xml
+- Feature|Article - 6269 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513134388.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513134635.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513135261.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513135484.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513136066.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513136393.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513136481.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513138820.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513138968.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513139305.xml
+- F|r|o|n|t| |P|a|g|e|/|C|o|v|e|r| |S|t|o|r|y - 885 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513134492.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513135803.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513140939.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513141916.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513142206.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513142900.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513142904.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513143186.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513143253.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513143580.xml
+- G|e|n|e|r|a|l| |I|n|f|o|r|m|a|t|i|o|n - 3182 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513133942.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513134055.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513134126.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513134722.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513134929.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513135009.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513135069.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513135161.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513135424.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513135558.xml
+- I|m|a|g|e|/|P|h|o|t|o|g|r|a|p|h - 49 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513149028.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513152299.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513153631.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513153896.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513158102.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513159228.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513159961.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513162029.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513162114.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513162870.xml
+- Letter to the Editor|Correspondence - 286 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513141832.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513143498.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513143823.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513143827.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513144708.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513145760.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513146049.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513146859.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513148206.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513148668.xml
+- N|e|w|s - 1 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513175733.xml
+- R|e|v|i|e|w - 636 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513136243.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513142415.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513143627.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513143880.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513143944.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513144100.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513144110.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513144361.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513145410.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513145599.xml
+- Table of Contents|Front Matter - 284 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513135320.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513135736.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513139929.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513141300.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513143701.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513144492.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513144760.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513146058.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513146997.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/ChristianScienceMonitor/CSM_20170929191926_00001/513147002.xml

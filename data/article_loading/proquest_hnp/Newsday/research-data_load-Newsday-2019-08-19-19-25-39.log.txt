@@ -1,0 +1,291 @@
+2019-08-19 19:27:04,155 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - Processing 11750 XML files in /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050
+2019-08-19 19:27:04,155 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - ----> XML file count: 11750
+2019-08-19 19:27:42,452 - DEBUG - context_text_proquest_hnp.proquest_hnp_newspaper_helper - 
+In map_archive_folder_files_to_types:
+XML file count: 11750
+Counters:
+- Processed 11750 files
+- No Record: 0
+- No ObjectType: 0
+- No ObjectType value: 0
+
+ObjectType values and occurrence counts:
+- Advertisement|Classified Advertisement - 251 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1813311673.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1813312507.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1813312951.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1813320214.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1813320237.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1813321663.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1813322150.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1813322847.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1813323703.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1813324060.xml
+- Article|Feature - 1444 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638754282.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638754768.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638754936.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638755059.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638755301.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638755328.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638755348.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638755465.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638755589.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638755720.xml
+- A|d|v|e|r|t|i|s|e|m|e|n|t - 3703 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000170920.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000171777.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000172441.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000173006.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000173245.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000173286.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000173301.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000173661.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000173676.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000173836.xml
+- B|i|r|t|h| |N|o|t|i|c|e - 1 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/879992781.xml
+- Classified Advertisement|Advertisement - 1073 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000174317.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000174445.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000174855.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000175510.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000176722.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000177161.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000177312.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000179012.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000184137.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000184941.xml
+- Commentary|Editorial - 38 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638771312.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638773282.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638774811.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1640048686.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1645361137.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1746928298.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1746931493.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1746982700.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1747002657.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1747046116.xml
+- Correspondence|Letter to the Editor - 35 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638756981.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638761621.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1639904732.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1639917258.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1639919756.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1640045954.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1645402471.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1746940179.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1746962970.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1746992847.xml
+- C|r|e|d|i|t|/|A|c|k|n|o|w|l|e|d|g|e|m|e|n|t - 68 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000176996.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000202482.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000209871.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000227625.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000233090.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000235571.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000248774.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002462338.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002488680.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002738709.xml
+- Editorial|Commentary - 40 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000207857.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000218428.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002441831.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002452978.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002739321.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002841104.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1014009519.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1014021973.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1469920228.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1469941215.xml
+- E|d|i|t|o|r|i|a|l| |C|a|r|t|o|o|n|/|C|o|m|i|c - 42 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000216358.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002446131.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1469942056.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1469992858.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1470016001.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1470019372.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1473600759.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1491818365.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638767547.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1639889793.xml
+- Feature|Article - 2111 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000174287.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000174750.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000174782.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000174847.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000175073.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000175165.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000176002.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000176269.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000176297.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000176492.xml
+- Front Matter|Table of Contents - 83 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638755709.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638766051.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638766458.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1639856219.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1639875143.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1639888884.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1639893322.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1639904028.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1639947769.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1639947848.xml
+- F|r|o|n|t| |P|a|g|e|/|C|o|v|e|r| |S|t|o|r|y - 93 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000232181.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000247974.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000250243.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002454176.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002458663.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002462134.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002490977.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002709291.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1015323248.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1350228098.xml
+- G|e|n|e|r|a|l| |I|n|f|o|r|m|a|t|i|o|n - 1572 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000174830.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000175121.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000175601.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000177055.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000177885.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000178437.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000179390.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000180313.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000180526.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000180563.xml
+- I|l|l|u|s|t|r|a|t|i|o|n - 147 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000192541.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000196718.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000229414.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000252910.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002466837.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002741749.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002834457.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002843060.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002871103.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002879206.xml
+- I|m|a|g|e|/|P|h|o|t|o|g|r|a|p|h - 122 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000180402.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000199525.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000204668.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000229367.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002441808.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002449757.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002728494.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002843305.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002855887.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1469942051.xml
+- Legal Notice|News - 66 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638755906.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638756618.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638757131.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638760547.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638765768.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638772188.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638774293.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1638778263.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1639854449.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1639860158.xml
+- Letter to the Editor|Correspondence - 83 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000176870.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000192862.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000204734.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000208476.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000214616.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000214680.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000215556.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000222220.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000231096.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000233908.xml
+- Marriage Announcement|News - 1 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1747091285.xml
+- News|Legal Notice - 145 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000188156.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000188703.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000200120.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000207076.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000207275.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000208836.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000208876.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000213491.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000235294.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000242520.xml
+- News|Marriage Announcement - 29 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1023767408.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1473644249.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/871719803.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/872199912.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/872206027.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/872228048.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/875329036.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/875466539.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/875476591.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/875481560.xml
+- N|e|w|s - 93 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000205948.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000235520.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002455263.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002491155.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002492093.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002875213.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1014006606.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1016431706.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1016432832.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1469926548.xml
+- O|b|i|t|u|a|r|y - 97 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000171550.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000207007.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000214557.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000215213.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002846648.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002876864.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1014016289.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1014026651.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1469942995.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1469989132.xml
+- R|e|v|i|e|w - 227 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000171676.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000174130.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000178826.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000186109.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000193231.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000196511.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000197080.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000209613.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000210282.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000210362.xml
+- S|t|o|c|k| |Q|u|o|t|e - 68 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000174440.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000175090.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000221543.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002713271.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002854132.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1002865008.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1015327560.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1015327561.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1469944138.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1470020965.xml
+- Table Of Contents|Front Matter - 27 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1943345622.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1943358373.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1943358391.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1943361752.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1943495590.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1943498997.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1943499250.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1943501672.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1943508206.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1943508879.xml
+- Table of Contents|Front Matter - 91 files:
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000191433.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000195476.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000196747.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000210088.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000210096.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000210608.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000222315.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000227421.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000232254.xml
+    - /mnt/hgfs/projects/phd/proquest_hnp/uncompressed/Newsday/Newsday_20171006231925_00050/1000233709.xml
