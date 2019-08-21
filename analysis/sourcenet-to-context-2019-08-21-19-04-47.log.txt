@@ -1,0 +1,10 @@
+2019-08-21 19:58:34,779 - DEBUG - parso.cache - pickle loaded: /home/jonathanmorgan/.virtualenvs/research/lib/python3.6/site-packages/jedi/third_party/typeshed/stdlib/2and3/builtins.pyi
+2019-08-21 19:58:34,854 - DEBUG - parso.cache - pickle loaded: /home/jonathanmorgan/.virtualenvs/research/lib/python3.6/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2019-08-21 19:58:34,969 - DEBUG - parso.cache - pickle loaded: /usr/lib/python3.6/typing.py
+2019-08-21 19:58:34,984 - DEBUG - parso.cache - pickle loaded: /home/jonathanmorgan/.virtualenvs/research/lib/python3.6/site-packages/jedi/third_party/typeshed/stdlib/3/typing.pyi
+2019-08-21 20:01:29,373 - INFO - sourcenet-to-context - 
+Summary:
+2019-08-21 20:01:29,373 - INFO - sourcenet-to-context - - good count: 43843
+2019-08-21 20:01:29,374 - INFO - sourcenet-to-context - - > 1 count: 0
+2019-08-21 20:01:29,374 - INFO - sourcenet-to-context - - 0 count: 0
+2019-08-21 20:01:29,374 - INFO - sourcenet-to-context - - unexpected count: 0
