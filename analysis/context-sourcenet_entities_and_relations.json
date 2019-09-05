@@ -65,7 +65,7 @@
         "slug": "quoted",
         "name": "quoted",
         "related_model": null,
-        "description": "The \"from\" person quoted the \"to\" person in a publication.  From = reporter, To = source.",
+        "description": "The \"from\" person quoted the \"to\" person in a publication.  FROM reporter TO source THROUGH article.",
         "parent_type": 4,
         "relation_from_entity_type": 1,
         "relation_to_entity_type": 1,
