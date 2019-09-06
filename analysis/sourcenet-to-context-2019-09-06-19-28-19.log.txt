@@ -1,0 +1,9 @@
+2019-09-06 19:28:35,496 - INFO - sourcenet-to-context - 2019-09-06 19:28:35.496699 - Loaded automated user: automated, id = 2
+2019-09-06 19:28:37,564 - INFO - sourcenet-to-context - Found 43843 articles
+2019-09-06 19:46:04,711 - DEBUG - parso.cache - pickle loaded: /home/jonathanmorgan/.virtualenvs/research/lib/python3.6/site-packages/jedi/third_party/typeshed/stdlib/2and3/builtins.pyi
+2019-09-06 19:46:04,777 - DEBUG - parso.cache - pickle loaded: /home/jonathanmorgan/.virtualenvs/research/lib/python3.6/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2019-09-06 19:46:07,636 - DEBUG - parso.cache - pickle loaded: /home/jonathanmorgan/work/django/research/python_utilities/logging/logging_helper.py
+2019-09-06 19:46:07,662 - DEBUG - parso.cache - pickle loaded: /home/jonathanmorgan/work/django/research/context_text/article_coding/open_calais_v2/open_calais_v2_article_coder.py
+2019-09-06 19:46:09,263 - DEBUG - parso.cache - pickle loaded: /usr/lib/python3.6/datetime.py
+2019-09-06 19:46:09,802 - DEBUG - parso.cache - pickle loaded: /home/jonathanmorgan/.virtualenvs/research/lib/python3.6/os.py
+2019-09-06 19:46:09,847 - DEBUG - parso.cache - pickle loaded: /home/jonathanmorgan/.virtualenvs/research/lib/python3.6/site-packages/six.py
