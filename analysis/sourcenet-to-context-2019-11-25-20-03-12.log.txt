@@ -1,0 +1,950 @@
+2019-11-25 20:03:43,600 - INFO - sourcenet-to-context - 2019-11-25 20:03:43.600062 - Loaded automated user: automated, id = 7
+2019-11-25 20:03:46,475 - INFO - sourcenet-to-context - Found 46 articles
+2019-11-25 20:36:04,534 - DEBUG - context_text.models - In create_q_filter_automated_by_coder_type: automated coder user: 7 - automated
+2019-11-25 20:36:04,555 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 21409
+2019-11-25 20:36:04,555 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 21409
+2019-11-25 20:36:04,610 - DEBUG - context.shared.models - No entities with identifier of type newspaper_sourcenet_id, uuid = 1
+2019-11-25 20:36:04,610 - DEBUG - context.shared.models - No entities with identifier of type newspaper_sourcenet_id, uuid = 1
+2019-11-25 20:36:04,612 - DEBUG - context.shared.models - No entities with identifier of type newspaper_sourcenet_id, uuid = 1
+2019-11-25 20:36:04,612 - DEBUG - context.shared.models - Creating entity with identifier of type newspaper_sourcenet_id, uuid = 1
+2019-11-25 20:36:04,644 - DEBUG - context.shared.models - No entities with identifier of type organization_sourcenet_id, uuid = 1
+2019-11-25 20:36:04,644 - DEBUG - context.shared.models - No entities with identifier of type organization_sourcenet_id, uuid = 1
+2019-11-25 20:36:04,646 - DEBUG - context.shared.models - No entities with identifier of type organization_sourcenet_id, uuid = 1
+2019-11-25 20:36:04,646 - DEBUG - context.shared.models - Creating entity with identifier of type organization_sourcenet_id, uuid = 1
+2019-11-25 20:36:04,705 - DEBUG - context_text.models - NOTE - Archive identifier: 0490333868; source: NewsBank
+2019-11-25 20:36:04,730 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 161
+2019-11-25 20:36:04,730 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 161
+2019-11-25 20:36:04,795 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 46
+2019-11-25 20:36:04,795 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 46
+2019-11-25 20:36:04,862 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 872
+2019-11-25 20:36:04,862 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 872
+2019-11-25 20:36:04,924 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 164
+2019-11-25 20:36:04,925 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 164
+2019-11-25 20:36:04,994 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 165
+2019-11-25 20:36:04,994 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 165
+2019-11-25 20:36:05,055 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 166
+2019-11-25 20:36:05,055 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 166
+2019-11-25 20:36:05,119 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 186
+2019-11-25 20:36:05,119 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 186
+2019-11-25 20:36:05,182 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 162
+2019-11-25 20:36:05,183 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 162
+2019-11-25 20:36:05,248 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 163
+2019-11-25 20:36:05,248 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 163
+2019-11-25 20:36:05,367 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 872 - Winter, Pando to UUID 10 - context_text-Person-872
+2019-11-25 20:36:05,419 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 164 - Dukesherer, Bob ( meteorologist ) to UUID 11 - context_text-Person-164
+2019-11-25 20:36:05,466 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 165 - Brown, Steve ( manager, Cannonsburg Ski Area ) to UUID 12 - context_text-Person-165
+2019-11-25 20:36:05,512 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 166 - DeGraaf, Rick ( skiier ) to UUID 13 - context_text-Person-166
+2019-11-25 20:36:05,559 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 186 - McNamara, Alex ( snowboarder ) to UUID 14 - context_text-Person-186
+2019-11-25 20:36:05,606 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 162 - VanderVelde, Justin ( snowboarder ) to UUID 15 - context_text-Person-162
+2019-11-25 20:36:05,653 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 163 - Goodell, Pete ( manager, Pando Winter Sports Park ) to UUID 16 - context_text-Person-163
+2019-11-25 20:36:08,318 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 21483
+2019-11-25 20:36:08,318 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 21483
+2019-11-25 20:36:08,347 - DEBUG - context_text.models - NOTE - Archive identifier: 0490334008; source: NewsBank
+2019-11-25 20:36:08,361 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 30
+2019-11-25 20:36:08,362 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 30
+2019-11-25 20:36:08,420 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 750
+2019-11-25 20:36:08,420 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 750
+2019-11-25 20:36:08,485 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 175
+2019-11-25 20:36:08,485 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 175
+2019-11-25 20:36:08,544 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 174
+2019-11-25 20:36:08,544 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 174
+2019-11-25 20:36:08,615 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 176
+2019-11-25 20:36:08,615 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 176
+2019-11-25 20:36:08,674 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 173
+2019-11-25 20:36:08,674 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 173
+2019-11-25 20:36:08,734 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 172
+2019-11-25 20:36:08,734 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 172
+2019-11-25 20:36:08,794 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 32
+2019-11-25 20:36:08,794 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 32
+2019-11-25 20:36:08,896 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 750 - Brinks, Sharon to UUID 19 - context_text-Person-750
+2019-11-25 20:36:08,940 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 175 - Kuperus, Albert ( Kentwood resident ) to UUID 20 - context_text-Person-175
+2019-11-25 20:36:08,986 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 174 - Pellerito, John to UUID 21 - context_text-Person-174
+2019-11-25 20:36:09,033 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 176 - Miles, Mike to UUID 22 - context_text-Person-176
+2019-11-25 20:36:09,085 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 173 - Brouwer, Roger ( Kentwood resident ) to UUID 23 - context_text-Person-173
+2019-11-25 20:36:09,136 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 172 - Verhulst, Gladys ( Kentwood resident ) to UUID 24 - context_text-Person-172
+2019-11-25 20:36:09,185 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 32 - Root, Richard to UUID 25 - context_text-Person-32
+2019-11-25 20:36:12,070 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 21509
+2019-11-25 20:36:12,070 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 21509
+2019-11-25 20:36:12,100 - DEBUG - context_text.models - NOTE - Archive identifier: 0490333982; source: NewsBank
+2019-11-25 20:36:12,155 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 46 - Reens, Nate ( The Grand Rapids Press; The Grand Rapids Press ) to UUID 9 - context_text-Person-46
+2019-11-25 20:36:12,159 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 877
+2019-11-25 20:36:12,159 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 877
+2019-11-25 20:36:12,218 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 182
+2019-11-25 20:36:12,218 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 182
+2019-11-25 20:36:12,278 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 878
+2019-11-25 20:36:12,279 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 878
+2019-11-25 20:36:12,348 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 180
+2019-11-25 20:36:12,348 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 180
+2019-11-25 20:36:12,409 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 876
+2019-11-25 20:36:12,409 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 876
+2019-11-25 20:36:12,470 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 181
+2019-11-25 20:36:12,471 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 181
+2019-11-25 20:36:12,534 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 875
+2019-11-25 20:36:12,534 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 875
+2019-11-25 20:36:12,639 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 877 - None, Kaidon to UUID 27 - context_text-Person-877
+2019-11-25 20:36:12,685 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 182 - Salatka, Jerry ( Battalion Chief  ) to UUID 28 - context_text-Person-182
+2019-11-25 20:36:12,730 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 878 - None, Rushing to UUID 29 - context_text-Person-878
+2019-11-25 20:36:12,778 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 180 - Estrada, Frances to UUID 30 - context_text-Person-180
+2019-11-25 20:36:12,829 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 876 - Hernandez, Charlene to UUID 31 - context_text-Person-876
+2019-11-25 20:36:12,880 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 181 - Brito, Jonathan to UUID 32 - context_text-Person-181
+2019-11-25 20:36:12,931 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 875 - None, Jaidon to UUID 33 - context_text-Person-875
+2019-11-25 20:36:14,796 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 21512
+2019-11-25 20:36:14,796 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 21512
+2019-11-25 20:36:14,826 - DEBUG - context_text.models - NOTE - Archive identifier: 0490333984; source: NewsBank
+2019-11-25 20:36:14,839 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 178
+2019-11-25 20:36:14,839 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 178
+2019-11-25 20:36:14,893 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 179
+2019-11-25 20:36:14,893 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 179
+2019-11-25 20:36:14,995 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 179 - Nystrom, Mike ( Michigan Infrastructure and Transportation Association spokesman ) to UUID 36 - context_text-Person-179
+2019-11-25 20:36:15,223 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 21627
+2019-11-25 20:36:15,223 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 21627
+2019-11-25 20:36:15,253 - DEBUG - context_text.models - NOTE - Archive identifier: 0490334150; source: NewsBank
+2019-11-25 20:36:15,305 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 46 - Reens, Nate ( The Grand Rapids Press; The Grand Rapids Press ) to UUID 9 - context_text-Person-46
+2019-11-25 20:36:15,312 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 913
+2019-11-25 20:36:15,312 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 913
+2019-11-25 20:36:15,370 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 914
+2019-11-25 20:36:15,370 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 914
+2019-11-25 20:36:15,435 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 234
+2019-11-25 20:36:15,435 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 234
+2019-11-25 20:36:15,505 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 909
+2019-11-25 20:36:15,505 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 909
+2019-11-25 20:36:15,565 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 213
+2019-11-25 20:36:15,565 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 213
+2019-11-25 20:36:15,623 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 910
+2019-11-25 20:36:15,624 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 910
+2019-11-25 20:36:15,683 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 132
+2019-11-25 20:36:15,683 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 132
+2019-11-25 20:36:15,740 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 912
+2019-11-25 20:36:15,740 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 912
+2019-11-25 20:36:15,798 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 215
+2019-11-25 20:36:15,799 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 215
+2019-11-25 20:36:15,856 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 911
+2019-11-25 20:36:15,856 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 911
+2019-11-25 20:36:15,962 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 913 - Hall, Dennis to UUID 38 - context_text-Person-913
+2019-11-25 20:36:16,013 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 914 - Schuster, Lucas to UUID 39 - context_text-Person-914
+2019-11-25 20:36:16,065 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 234 - Grieshaber, Mel ( executive director, Michigan Corrections Organization ) to UUID 40 - context_text-Person-234
+2019-11-25 20:36:16,116 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 909 - Cook, Ranar to UUID 41 - context_text-Person-909
+2019-11-25 20:36:16,165 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 213 - Olivo, Sam ( Carson City Correctional Facility prison guard ) to UUID 42 - context_text-Person-213
+2019-11-25 20:36:16,209 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 910 - Palmer, Beth to UUID 43 - context_text-Person-910
+2019-11-25 20:36:16,254 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 132 - Cordell, John ( Michigan Department of Corrections spokesman ) to UUID 44 - context_text-Person-132
+2019-11-25 20:36:16,298 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 912 - Henry, Daniel to UUID 45 - context_text-Person-912
+2019-11-25 20:36:16,342 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 215 - Palmer, Lee to UUID 46 - context_text-Person-215
+2019-11-25 20:36:16,387 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 911 - Lang, Andrew to UUID 47 - context_text-Person-911
+2019-11-25 20:36:19,853 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 21661
+2019-11-25 20:36:19,853 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 21661
+2019-11-25 20:36:19,886 - DEBUG - context_text.models - NOTE - Archive identifier: 0490334126; source: NewsBank
+2019-11-25 20:36:19,898 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 73
+2019-11-25 20:36:19,898 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 73
+2019-11-25 20:36:19,954 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 901
+2019-11-25 20:36:19,954 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 901
+2019-11-25 20:36:20,013 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 237
+2019-11-25 20:36:20,014 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 237
+2019-11-25 20:36:20,076 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 236
+2019-11-25 20:36:20,077 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 236
+2019-11-25 20:36:20,147 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 239
+2019-11-25 20:36:20,147 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 239
+2019-11-25 20:36:20,249 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 901 - Morgan, Roger to UUID 50 - context_text-Person-901
+2019-11-25 20:36:20,294 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 237 - Agee, Dean ( Kent County finance committee chairman ) to UUID 51 - context_text-Person-237
+2019-11-25 20:36:20,340 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 236 - Delabbio, Daryl ( Kent County administrator ) to UUID 52 - context_text-Person-236
+2019-11-25 20:36:20,385 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 239 - Stypula, Don ( Grand Valley Metro Council executive director ) to UUID 53 - context_text-Person-239
+2019-11-25 20:36:21,447 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 21719
+2019-11-25 20:36:21,447 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 21719
+2019-11-25 20:36:21,477 - DEBUG - context_text.models - NOTE - Archive identifier: 0490334263; source: NewsBank
+2019-11-25 20:36:21,489 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 23
+2019-11-25 20:36:21,489 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 23
+2019-11-25 20:36:21,547 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 935
+2019-11-25 20:36:21,547 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 935
+2019-11-25 20:36:21,607 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 933
+2019-11-25 20:36:21,607 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 933
+2019-11-25 20:36:21,669 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 269
+2019-11-25 20:36:21,669 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 269
+2019-11-25 20:36:21,736 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 268
+2019-11-25 20:36:21,736 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 268
+2019-11-25 20:36:21,795 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 934
+2019-11-25 20:36:21,795 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 934
+2019-11-25 20:36:21,853 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1049
+2019-11-25 20:36:21,853 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1049
+2019-11-25 20:36:21,960 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 935 - Jones, Wayne Lamont to UUID 56 - context_text-Person-935
+2019-11-25 20:36:22,006 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 933 - Hart, Douglas Vander to UUID 57 - context_text-Person-933
+2019-11-25 20:36:22,053 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 269 - Cortes, Pablo ( Judge ) to UUID 58 - context_text-Person-269
+2019-11-25 20:36:22,099 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 268 - Thompson, David ( Wyoming police officer  ) to UUID 59 - context_text-Person-268
+2019-11-25 20:36:22,145 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 934 - None, Al to UUID 60 - context_text-Person-934
+2019-11-25 20:36:22,195 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1049 - None, Ginny to UUID 61 - context_text-Person-1049
+2019-11-25 20:36:23,864 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 21738
+2019-11-25 20:36:23,864 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 21738
+2019-11-25 20:36:23,895 - DEBUG - context_text.models - NOTE - Archive identifier: 0490334228; source: NewsBank
+2019-11-25 20:36:23,907 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 36
+2019-11-25 20:36:23,907 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 36
+2019-11-25 20:36:23,963 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 272
+2019-11-25 20:36:23,963 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 272
+2019-11-25 20:36:24,022 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 275
+2019-11-25 20:36:24,022 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 275
+2019-11-25 20:36:24,083 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 274
+2019-11-25 20:36:24,083 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 274
+2019-11-25 20:36:24,150 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 273
+2019-11-25 20:36:24,150 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 273
+2019-11-25 20:36:24,254 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 272 - Mullin, Tracy ( president and CEO, National Retail Federation ) to UUID 64 - context_text-Person-272
+2019-11-25 20:36:24,300 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 275 - Norcross, Jeanne ( spokeswoman, Spartan Stores ) to UUID 65 - context_text-Person-275
+2019-11-25 20:36:24,347 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 274 - Behler, Stacie ( spokeswoman, Meijer ) to UUID 66 - context_text-Person-274
+2019-11-25 20:36:24,393 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 273 - Shinder, Jeffrey ( attorney ) to UUID 67 - context_text-Person-273
+2019-11-25 20:36:25,678 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 21790
+2019-11-25 20:36:25,678 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 21790
+2019-11-25 20:36:25,708 - DEBUG - context_text.models - NOTE - Archive identifier: 0490334398; source: NewsBank
+2019-11-25 20:36:25,720 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 69
+2019-11-25 20:36:25,720 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 69
+2019-11-25 20:36:25,775 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 289
+2019-11-25 20:36:25,775 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 289
+2019-11-25 20:36:25,837 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 290
+2019-11-25 20:36:25,837 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 290
+2019-11-25 20:36:25,897 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 102
+2019-11-25 20:36:25,897 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 102
+2019-11-25 20:36:26,012 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 289 - Shibler, Michael ( Rockford Public Schools ) to UUID 70 - context_text-Person-289
+2019-11-25 20:36:26,062 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 290 - Kuipers, Wayne ( State Sen., R-Holland ) to UUID 71 - context_text-Person-290
+2019-11-25 20:36:26,108 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 102 - Granholm, Jennifer ( Governor of Michigan ) to UUID 72 - context_text-Person-102
+2019-11-25 20:36:26,935 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 21827
+2019-11-25 20:36:26,935 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 21827
+2019-11-25 20:36:26,964 - DEBUG - context_text.models - NOTE - Archive identifier: 0490334425; source: NewsBank
+2019-11-25 20:36:26,977 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 217
+2019-11-25 20:36:26,977 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 217
+2019-11-25 20:36:27,032 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 753
+2019-11-25 20:36:27,032 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 753
+2019-11-25 20:36:27,094 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 292
+2019-11-25 20:36:27,094 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 292
+2019-11-25 20:36:27,153 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 295
+2019-11-25 20:36:27,153 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 295
+2019-11-25 20:36:27,222 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 752
+2019-11-25 20:36:27,222 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 752
+2019-11-25 20:36:27,326 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 753 - Schulz, Suzanne to UUID 75 - context_text-Person-753
+2019-11-25 20:36:27,371 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 292 - Potter, Paul ( Grand Rapids City Commission Vice Chairman ) to UUID 76 - context_text-Person-292
+2019-11-25 20:36:27,416 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 295 - Botts, Holly ( Grand Rapids Police Sgt. ) to UUID 77 - context_text-Person-295
+2019-11-25 20:36:27,462 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 752 - None, Schultz to UUID 78 - context_text-Person-752
+2019-11-25 20:36:28,745 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 21890
+2019-11-25 20:36:28,745 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 21890
+2019-11-25 20:36:28,775 - DEBUG - context_text.models - NOTE - Archive identifier: 0490334549; source: NewsBank
+2019-11-25 20:36:28,787 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 591
+2019-11-25 20:36:28,787 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 591
+2019-11-25 20:36:28,844 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 312
+2019-11-25 20:36:28,844 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 312
+2019-11-25 20:36:28,904 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 311
+2019-11-25 20:36:28,904 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 311
+2019-11-25 20:36:28,965 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 310
+2019-11-25 20:36:28,966 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 310
+2019-11-25 20:36:29,086 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 312 - Schadick, Michael ( Temple Emanuel rabbi ) to UUID 81 - context_text-Person-312
+2019-11-25 20:36:29,133 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 311 - Binder, Mark ( Rhode Island storyteller ) to UUID 82 - context_text-Person-311
+2019-11-25 20:36:29,178 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 310 - Libman, Karen ( chairwoman of the religious life committee at Congregation Ahavas Israel ) to UUID 83 - context_text-Person-310
+2019-11-25 20:36:30,000 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 21925
+2019-11-25 20:36:30,000 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 21925
+2019-11-25 20:36:30,029 - DEBUG - context_text.models - NOTE - Archive identifier: 0490334509; source: NewsBank
+2019-11-25 20:36:30,042 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 84
+2019-11-25 20:36:30,042 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 84
+2019-11-25 20:36:30,100 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1002
+2019-11-25 20:36:30,100 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1002
+2019-11-25 20:36:30,163 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 308
+2019-11-25 20:36:30,163 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 308
+2019-11-25 20:36:30,221 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1003
+2019-11-25 20:36:30,222 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1003
+2019-11-25 20:36:30,290 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 307
+2019-11-25 20:36:30,290 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 307
+2019-11-25 20:36:30,349 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1001
+2019-11-25 20:36:30,349 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1001
+2019-11-25 20:36:30,453 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1002 - Ministries, Mel Trotter to UUID 86 - context_text-Person-1002
+2019-11-25 20:36:30,505 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 308 - Daniels, Chico ( director of Mel Trotter Ministries ) to UUID 87 - context_text-Person-308
+2019-11-25 20:36:30,552 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1003 - Pauli, Thomas to UUID 88 - context_text-Person-1003
+2019-11-25 20:36:30,597 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 307 - Aukerman, Miriam ( Legal Aid of Western Michigan attorney ) to UUID 89 - context_text-Person-307
+2019-11-25 20:36:30,642 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1001 - Munoz, Peter to UUID 90 - context_text-Person-1001
+2019-11-25 20:36:31,804 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 28274
+2019-11-25 20:36:31,804 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 28274
+2019-11-25 20:36:31,834 - DEBUG - context_text.models - NOTE - Archive identifier: 0490342241; source: NewsBank
+2019-11-25 20:36:31,846 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 302
+2019-11-25 20:36:31,846 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 302
+2019-11-25 20:36:31,901 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 306
+2019-11-25 20:36:31,901 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 306
+2019-11-25 20:36:31,961 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1009
+2019-11-25 20:36:31,961 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1009
+2019-11-25 20:36:32,019 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 304
+2019-11-25 20:36:32,019 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 304
+2019-11-25 20:36:32,091 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 303
+2019-11-25 20:36:32,091 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 303
+2019-11-25 20:36:32,151 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 305
+2019-11-25 20:36:32,151 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 305
+2019-11-25 20:36:32,253 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 306 - Werley, Jennifer ( physical therapist, Holland Hospital rehabilitation services ) to UUID 93 - context_text-Person-306
+2019-11-25 20:36:32,299 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1009 - Howard, Ron to UUID 94 - context_text-Person-1009
+2019-11-25 20:36:32,344 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 304 - Oppenhuizen, Greg to UUID 95 - context_text-Person-304
+2019-11-25 20:36:32,389 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 303 - Bos, Tom ( executive director of the Holland Aquatic Center ) to UUID 96 - context_text-Person-303
+2019-11-25 20:36:32,440 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 305 - Kimble, Don ( swim coach at Holland High School ) to UUID 97 - context_text-Person-305
+2019-11-25 20:36:33,997 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 28499
+2019-11-25 20:36:33,997 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 28499
+2019-11-25 20:36:34,026 - DEBUG - context_text.models - NOTE - Archive identifier: 0490342840; source: NewsBank
+2019-11-25 20:36:34,039 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 66
+2019-11-25 20:36:34,039 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 66
+2019-11-25 20:36:34,100 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 754
+2019-11-25 20:36:34,100 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 754
+2019-11-25 20:36:34,160 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 263
+2019-11-25 20:36:34,160 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 263
+2019-11-25 20:36:34,224 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 261
+2019-11-25 20:36:34,224 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 261
+2019-11-25 20:36:34,293 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 259
+2019-11-25 20:36:34,293 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 259
+2019-11-25 20:36:34,402 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 754 - Hoeltzel, Bob to UUID 100 - context_text-Person-754
+2019-11-25 20:36:34,453 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 263 - Larsen, Cindy ( president of the Muskegon Area Chamber of Commerce ) to UUID 101 - context_text-Person-263
+2019-11-25 20:36:34,500 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 261 - Nelund, Gary ( Norton Shores Mayor ) to UUID 102 - context_text-Person-261
+2019-11-25 20:36:35,808 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 28598
+2019-11-25 20:36:35,808 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 28598
+2019-11-25 20:36:35,837 - DEBUG - context_text.models - NOTE - Archive identifier: 0490343066; source: NewsBank
+2019-11-25 20:36:35,849 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 223
+2019-11-25 20:36:35,850 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 223
+2019-11-25 20:36:35,905 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 225
+2019-11-25 20:36:35,906 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 225
+2019-11-25 20:36:35,968 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 227
+2019-11-25 20:36:35,968 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 227
+2019-11-25 20:36:36,028 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 229
+2019-11-25 20:36:36,028 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 229
+2019-11-25 20:36:36,098 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 228
+2019-11-25 20:36:36,098 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 228
+2019-11-25 20:36:36,158 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 226
+2019-11-25 20:36:36,158 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 226
+2019-11-25 20:36:36,218 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1029
+2019-11-25 20:36:36,218 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1029
+2019-11-25 20:36:36,278 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 224
+2019-11-25 20:36:36,278 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 224
+2019-11-25 20:36:36,337 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 230
+2019-11-25 20:36:36,337 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 230
+2019-11-25 20:36:36,442 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 225 - Jansen, Mark ( Michigan State Sen., R-Gaines Township ) to UUID 106 - context_text-Person-225
+2019-11-25 20:36:36,497 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 227 - Studley, Richard ( president of the Michigan Chamber of Commerce ) to UUID 107 - context_text-Person-227
+2019-11-25 20:36:36,549 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 229 - Owens, Charles ( director of the National Federation of Independent Business-Michigan ) to UUID 108 - context_text-Person-229
+2019-11-25 20:36:36,601 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 228 - Parks, Sharon ( director of the Michigan League for Human Services ) to UUID 109 - context_text-Person-228
+2019-11-25 20:36:36,655 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 226 - Johnston, Michael ( head of legislative affairs for the Michigan Manufacturers Association ) to UUID 110 - context_text-Person-226
+2019-11-25 20:36:36,707 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1029 - Gran-holm, Jennifer to UUID 111 - context_text-Person-1029
+2019-11-25 20:36:36,755 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 224 - Meadows, Mark ( Michigan State Rep., D-East Lansing ) to UUID 112 - context_text-Person-224
+2019-11-25 20:36:36,800 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 230 - Jondahl, Lynn ( spokesman for A Better Michigan Future ) to UUID 113 - context_text-Person-230
+2019-11-25 20:36:39,762 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 28610
+2019-11-25 20:36:39,762 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 28610
+2019-11-25 20:36:39,792 - DEBUG - context_text.models - NOTE - Archive identifier: 0490343077; source: NewsBank
+2019-11-25 20:36:39,849 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 222
+2019-11-25 20:36:39,849 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 222
+2019-11-25 20:36:39,953 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 222 - Schumacher, John ( Hobby Lobby assistant vice president for advertising ) to UUID 115 - context_text-Person-222
+2019-11-25 20:36:40,184 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 28649
+2019-11-25 20:36:40,185 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 28649
+2019-11-25 20:36:40,214 - DEBUG - context_text.models - NOTE - Archive identifier: 0490343088; source: NewsBank
+2019-11-25 20:36:40,269 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 232
+2019-11-25 20:36:40,269 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 232
+2019-11-25 20:36:40,330 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 231
+2019-11-25 20:36:40,330 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 231
+2019-11-25 20:36:40,390 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 233
+2019-11-25 20:36:40,390 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 233
+2019-11-25 20:36:40,506 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 232 - Dettloff, Mary ( DNRE spokeswoman ) to UUID 117 - context_text-Person-232
+2019-11-25 20:36:40,553 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 231 - Kailing, Pete ( field biologist at the DNRE's Baldwin office ) to UUID 118 - context_text-Person-231
+2019-11-25 20:36:40,599 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 233 - Larson, Chris to UUID 119 - context_text-Person-233
+2019-11-25 20:36:41,255 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 28741
+2019-11-25 20:36:41,255 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 28741
+2019-11-25 20:36:41,285 - DEBUG - context_text.models - NOTE - Archive identifier: 0490343247; source: NewsBank
+2019-11-25 20:36:41,341 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 221
+2019-11-25 20:36:41,341 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 221
+2019-11-25 20:36:41,401 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 220
+2019-11-25 20:36:41,401 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 220
+2019-11-25 20:36:41,468 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 219
+2019-11-25 20:36:41,468 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 219
+2019-11-25 20:36:41,537 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 218
+2019-11-25 20:36:41,537 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 218
+2019-11-25 20:36:41,642 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 221 - Zimmerman, Matt ( Grand Rapids' Southeast Side resident, construction worker ) to UUID 121 - context_text-Person-221
+2019-11-25 20:36:41,688 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 220 - Swets, Tom ( Cascade Township resident ) to UUID 122 - context_text-Person-220
+2019-11-25 20:36:41,735 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 219 - Dean, Bob ( director of East Grand Rapids Childrens Museum ) to UUID 123 - context_text-Person-219
+2019-11-25 20:36:41,780 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 218 - Heartwell, George ( Mayor of Grand Rapids, MI ) to UUID 124 - context_text-Person-218
+2019-11-25 20:36:42,834 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 28846
+2019-11-25 20:36:42,834 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 28846
+2019-11-25 20:36:42,864 - DEBUG - context_text.models - NOTE - Archive identifier: 0490343342; source: NewsBank
+2019-11-25 20:36:42,920 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1043
+2019-11-25 20:36:42,920 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1043
+2019-11-25 20:36:42,979 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 980
+2019-11-25 20:36:42,980 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 980
+2019-11-25 20:36:43,039 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1044
+2019-11-25 20:36:43,039 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1044
+2019-11-25 20:36:43,109 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 188
+2019-11-25 20:36:43,109 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 188
+2019-11-25 20:36:43,169 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 187
+2019-11-25 20:36:43,169 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 187
+2019-11-25 20:36:43,238 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 189
+2019-11-25 20:36:43,238 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 189
+2019-11-25 20:36:43,342 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1043 - Platschorre, Lee Ann to UUID 126 - context_text-Person-1043
+2019-11-25 20:36:43,387 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 980 - Lee, Godfrey to UUID 127 - context_text-Person-980
+2019-11-25 20:36:43,432 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1044 - VanOeveren, Roderick to UUID 128 - context_text-Person-1044
+2019-11-25 20:36:43,483 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 188 - Felske, Jon ( Godwin Heights School District Superintendent ) to UUID 129 - context_text-Person-188
+2019-11-25 20:36:43,590 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 189 - Hornecker, Kenneth ( Godwin Heights school board candidate ) to UUID 131 - context_text-Person-189
+2019-11-25 20:36:45,254 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 90948
+2019-11-25 20:36:45,254 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 90948
+2019-11-25 20:36:45,274 - DEBUG - context.shared.models - No entities with identifier of type newspaper_sourcenet_id, uuid = 2
+2019-11-25 20:36:45,274 - DEBUG - context.shared.models - No entities with identifier of type newspaper_sourcenet_id, uuid = 2
+2019-11-25 20:36:45,276 - DEBUG - context.shared.models - No entities with identifier of type newspaper_sourcenet_id, uuid = 2
+2019-11-25 20:36:45,276 - DEBUG - context.shared.models - Creating entity with identifier of type newspaper_sourcenet_id, uuid = 2
+2019-11-25 20:36:45,299 - DEBUG - context.shared.models - No entities with identifier of type organization_sourcenet_id, uuid = 4
+2019-11-25 20:36:45,299 - DEBUG - context.shared.models - No entities with identifier of type organization_sourcenet_id, uuid = 4
+2019-11-25 20:36:45,302 - DEBUG - context.shared.models - No entities with identifier of type organization_sourcenet_id, uuid = 4
+2019-11-25 20:36:45,302 - DEBUG - context.shared.models - Creating entity with identifier of type organization_sourcenet_id, uuid = 4
+2019-11-25 20:36:45,356 - DEBUG - context_text.models - NOTE - Archive identifier: det55776177; source: NewsBank
+2019-11-25 20:36:45,369 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 155
+2019-11-25 20:36:45,369 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 155
+2019-11-25 20:36:45,430 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 159
+2019-11-25 20:36:45,430 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 159
+2019-11-25 20:36:45,498 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 160
+2019-11-25 20:36:45,498 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 160
+2019-11-25 20:36:45,565 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 156
+2019-11-25 20:36:45,565 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 156
+2019-11-25 20:36:45,631 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 158
+2019-11-25 20:36:45,631 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 158
+2019-11-25 20:36:45,690 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 157
+2019-11-25 20:36:45,690 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 157
+2019-11-25 20:36:45,793 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 159 - Dilts, Gary ( senior vice president, J.D. Power & Associates ) to UUID 136 - context_text-Person-159
+2019-11-25 20:36:45,839 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 160 - Bell, James ( executive market analyst, Kelley Blue Book ) to UUID 137 - context_text-Person-160
+2019-11-25 20:36:45,884 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 156 - Diaz, Fred ( head of Chrysler's Ram brand ) to UUID 138 - context_text-Person-156
+2019-11-25 20:36:45,930 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 158 - McCandless, John ( spokesman, Toyota ) to UUID 139 - context_text-Person-158
+2019-11-25 20:36:45,976 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 157 - Conway, Van ( analyst, Conway MacKenzie Inc. ) to UUID 140 - context_text-Person-157
+2019-11-25 20:36:47,548 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 90983
+2019-11-25 20:36:47,548 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 90983
+2019-11-25 20:36:47,578 - DEBUG - context_text.models - NOTE - Archive identifier: det55822926; source: NewsBank
+2019-11-25 20:36:47,591 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 167
+2019-11-25 20:36:47,591 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 167
+2019-11-25 20:36:47,651 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 169
+2019-11-25 20:36:47,652 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 169
+2019-11-25 20:36:47,711 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 168
+2019-11-25 20:36:47,711 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 168
+2019-11-25 20:36:47,771 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 889
+2019-11-25 20:36:47,771 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 889
+2019-11-25 20:36:47,882 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 169 - Terwilliger, Bruce ( 76-year-old Lange Street resident ) to UUID 143 - context_text-Person-169
+2019-11-25 20:36:47,927 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 168 - Misterovich, William ( deputy Macomb County public works commissioner ) to UUID 144 - context_text-Person-168
+2019-11-25 20:36:47,972 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 889 - Drain, Mile to UUID 145 - context_text-Person-889
+2019-11-25 20:36:48,508 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 91000
+2019-11-25 20:36:48,508 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 91000
+2019-11-25 20:36:48,538 - DEBUG - context_text.models - NOTE - Archive identifier: det55823691; source: NewsBank
+2019-11-25 20:36:48,552 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 56
+2019-11-25 20:36:48,552 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 56
+2019-11-25 20:36:48,614 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 171
+2019-11-25 20:36:48,614 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 171
+2019-11-25 20:36:48,675 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 874
+2019-11-25 20:36:48,675 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 874
+2019-11-25 20:36:48,734 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 873
+2019-11-25 20:36:48,734 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 873
+2019-11-25 20:36:48,803 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 170
+2019-11-25 20:36:48,803 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 170
+2019-11-25 20:36:48,906 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 171 - Grant, Katie ( spokeswoman for House Majority Leader Steny Hoyer, D-Md. ) to UUID 148 - context_text-Person-171
+2019-11-25 20:36:48,951 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 874 - Hoyer, Steny to UUID 149 - context_text-Person-874
+2019-11-25 20:36:48,996 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 873 - LaTourette, Steve to UUID 150 - context_text-Person-873
+2019-11-25 20:36:49,041 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 170 - Marchionne, Sergio ( CEO, Chrysler ) to UUID 151 - context_text-Person-170
+2019-11-25 20:36:49,929 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 91036
+2019-11-25 20:36:49,929 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 91036
+2019-11-25 20:36:49,959 - DEBUG - context_text.models - NOTE - Archive identifier: det55892743; source: NewsBank
+2019-11-25 20:36:49,971 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 143
+2019-11-25 20:36:49,971 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 143
+2019-11-25 20:36:50,027 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 194
+2019-11-25 20:36:50,027 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 194
+2019-11-25 20:36:50,091 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 197
+2019-11-25 20:36:50,091 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 197
+2019-11-25 20:36:50,151 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 854
+2019-11-25 20:36:50,151 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 854
+2019-11-25 20:36:50,220 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 196
+2019-11-25 20:36:50,220 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 196
+2019-11-25 20:36:50,280 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 193
+2019-11-25 20:36:50,280 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 193
+2019-11-25 20:36:50,341 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 195
+2019-11-25 20:36:50,341 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 195
+2019-11-25 20:36:50,450 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 194 - Smith, Gary ( co-director of the U-M Consortium for Stem Therapies ) to UUID 154 - context_text-Person-194
+2019-11-25 20:36:50,497 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 197 - Russell, Kathleen to UUID 155 - context_text-Person-197
+2019-11-25 20:36:50,543 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 854 - Gehrig, Lou to UUID 156 - context_text-Person-854
+2019-11-25 20:36:50,591 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 196 - George, Tom ( State Sen., R-Kalamazoo ) to UUID 157 - context_text-Person-196
+2019-11-25 20:36:50,641 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 193 - Feldman, Eva ( U-M researcher and neurologist ) to UUID 158 - context_text-Person-193
+2019-11-25 20:36:50,694 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 195 - Taubman, A. Alfred to UUID 159 - context_text-Person-195
+2019-11-25 20:36:52,871 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 91038
+2019-11-25 20:36:52,871 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 91038
+2019-11-25 20:36:52,901 - DEBUG - context_text.models - NOTE - Archive identifier: det55884747; source: NewsBank
+2019-11-25 20:36:52,913 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 183
+2019-11-25 20:36:52,913 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 183
+2019-11-25 20:36:52,974 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 184
+2019-11-25 20:36:52,974 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 184
+2019-11-25 20:36:53,034 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 185
+2019-11-25 20:36:53,034 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 185
+2019-11-25 20:36:53,158 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 184 - Dillon, Andy ( Speaker of the House ) to UUID 162 - context_text-Person-184
+2019-11-25 20:36:53,204 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 185 - Gilbert, Judson ( State Sen. ) to UUID 163 - context_text-Person-185
+2019-11-25 20:36:53,568 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 91068
+2019-11-25 20:36:53,568 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 91068
+2019-11-25 20:36:53,602 - DEBUG - context_text.models - NOTE - Archive identifier: det55884943; source: NewsBank
+2019-11-25 20:36:53,615 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 190
+2019-11-25 20:36:53,615 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 190
+2019-11-25 20:36:53,683 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 906
+2019-11-25 20:36:53,684 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 906
+2019-11-25 20:36:53,750 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 751
+2019-11-25 20:36:53,750 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 751
+2019-11-25 20:36:53,815 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 191
+2019-11-25 20:36:53,815 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 191
+2019-11-25 20:36:53,879 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 907
+2019-11-25 20:36:53,880 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 907
+2019-11-25 20:36:53,980 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 906 - None, Clarence to UUID 166 - context_text-Person-906
+2019-11-25 20:36:54,024 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 751 - Barnett, Martha Ann to UUID 167 - context_text-Person-751
+2019-11-25 20:36:54,071 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 191 - Anders, Duane ( director, Sacred Heart Cemetery ) to UUID 168 - context_text-Person-191
+2019-11-25 20:36:54,117 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 907 - Woolfolk, Deandre to UUID 169 - context_text-Person-907
+2019-11-25 20:36:54,999 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 91071
+2019-11-25 20:36:55,000 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 91071
+2019-11-25 20:36:55,029 - DEBUG - context_text.models - NOTE - Archive identifier: det55892760; source: NewsBank
+2019-11-25 20:36:55,042 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 48
+2019-11-25 20:36:55,042 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 48
+2019-11-25 20:36:55,106 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 204
+2019-11-25 20:36:55,106 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 204
+2019-11-25 20:36:55,167 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 206
+2019-11-25 20:36:55,167 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 206
+2019-11-25 20:36:55,226 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 207
+2019-11-25 20:36:55,227 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 207
+2019-11-25 20:36:55,294 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 210
+2019-11-25 20:36:55,294 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 210
+2019-11-25 20:36:55,355 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 209
+2019-11-25 20:36:55,355 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 209
+2019-11-25 20:36:55,462 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 102 - Granholm, Jennifer ( Governor of Michigan ) to UUID 72 - context_text-Person-102
+2019-11-25 20:36:55,511 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 204 - Gioia, Nancy ( director of Ford's global electrification programs ) to UUID 172 - context_text-Person-204
+2019-11-25 20:36:55,558 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 206 - Kuzak, Derrick ( Ford's head of global product development ) to UUID 173 - context_text-Person-206
+2019-11-25 20:36:55,605 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 207 - Brown, Megan ( spokeswoman, Gov. Granholm ) to UUID 174 - context_text-Person-207
+2019-11-25 20:36:55,651 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 210 - Fulton, George ( University of Michigan economist ) to UUID 175 - context_text-Person-210
+2019-11-25 20:36:55,699 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 209 - Wolfram, Gary ( Hillsdale College professor ) to UUID 176 - context_text-Person-209
+2019-11-25 20:36:55,750 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 102 - Granholm, Jennifer ( Governor of Michigan ) to UUID 72 - context_text-Person-102
+2019-11-25 20:36:58,278 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 91112
+2019-11-25 20:36:58,278 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 91112
+2019-11-25 20:36:58,307 - DEBUG - context_text.models - NOTE - Archive identifier: det55957099; source: NewsBank
+2019-11-25 20:36:58,320 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 262
+2019-11-25 20:36:58,320 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 262
+2019-11-25 20:36:58,381 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 925
+2019-11-25 20:36:58,381 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 925
+2019-11-25 20:36:58,447 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 264
+2019-11-25 20:36:58,447 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 264
+2019-11-25 20:36:58,507 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 265
+2019-11-25 20:36:58,507 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 265
+2019-11-25 20:36:58,579 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 924
+2019-11-25 20:36:58,579 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 924
+2019-11-25 20:36:58,639 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 922
+2019-11-25 20:36:58,639 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 922
+2019-11-25 20:36:58,699 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 921
+2019-11-25 20:36:58,699 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 921
+2019-11-25 20:36:58,759 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 923
+2019-11-25 20:36:58,759 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 923
+2019-11-25 20:36:58,864 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 925 - Whitacre, Ed to UUID 179 - context_text-Person-925
+2019-11-25 20:36:58,909 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 264 - Lindland, Rebecca ( director of automotive research, IHS Global Insight ) to UUID 180 - context_text-Person-264
+2019-11-25 20:36:58,956 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 265 - Docherty, Susan ( GM vice president of sales ) to UUID 181 - context_text-Person-265
+2019-11-25 20:36:59,005 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 924 - Henderson, Fritz to UUID 182 - context_text-Person-924
+2019-11-25 20:36:59,061 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 922 - Richards, Michael to UUID 183 - context_text-Person-922
+2019-11-25 20:36:59,113 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 921 - Dewar, Brent to UUID 184 - context_text-Person-921
+2019-11-25 20:36:59,165 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 923 - Campbell, James to UUID 185 - context_text-Person-923
+2019-11-25 20:37:01,053 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 91114
+2019-11-25 20:37:01,053 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 91114
+2019-11-25 20:37:01,085 - DEBUG - context_text.models - NOTE - Archive identifier: det55950754; source: NewsBank
+2019-11-25 20:37:01,141 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 183 - Hornbeck, Mark ( Detroit News ) to UUID 161 - context_text-Person-183
+2019-11-25 20:37:01,187 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 102 - Granholm, Jennifer ( Governor of Michigan ) to UUID 72 - context_text-Person-102
+2019-11-25 20:37:01,236 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 102 - Granholm, Jennifer ( Governor of Michigan ) to UUID 72 - context_text-Person-102
+2019-11-25 20:37:01,471 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 91132
+2019-11-25 20:37:01,471 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 91132
+2019-11-25 20:37:01,502 - DEBUG - context_text.models - NOTE - Archive identifier: det55946222; source: NewsBank
+2019-11-25 20:37:01,514 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 260
+2019-11-25 20:37:01,514 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 260
+2019-11-25 20:37:01,579 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 919
+2019-11-25 20:37:01,579 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 919
+2019-11-25 20:37:01,682 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 260 - Edsall, Larry ( Detroit News ) to UUID 188 - context_text-Person-260
+2019-11-25 20:37:01,685 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 920
+2019-11-25 20:37:01,685 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 920
+2019-11-25 20:37:01,799 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 919 - Trim, Shelby to UUID 189 - context_text-Person-919
+2019-11-25 20:37:01,843 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 260 - Edsall, Larry ( Detroit News ) to UUID 188 - context_text-Person-260
+2019-11-25 20:37:01,889 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 920 - Ross, Dave to UUID 190 - context_text-Person-920
+2019-11-25 20:37:02,363 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 91133
+2019-11-25 20:37:02,363 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 91133
+2019-11-25 20:37:02,396 - DEBUG - context_text.models - NOTE - Archive identifier: det55959212; source: NewsBank
+2019-11-25 20:37:02,410 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 90
+2019-11-25 20:37:02,410 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 90
+2019-11-25 20:37:02,476 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 938
+2019-11-25 20:37:02,476 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 938
+2019-11-25 20:37:02,537 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 244
+2019-11-25 20:37:02,537 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 244
+2019-11-25 20:37:02,599 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 242
+2019-11-25 20:37:02,600 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 242
+2019-11-25 20:37:02,666 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 940
+2019-11-25 20:37:02,666 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 940
+2019-11-25 20:37:02,727 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 942
+2019-11-25 20:37:02,727 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 942
+2019-11-25 20:37:02,787 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 939
+2019-11-25 20:37:02,787 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 939
+2019-11-25 20:37:02,847 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 941
+2019-11-25 20:37:02,847 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 941
+2019-11-25 20:37:02,907 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 316
+2019-11-25 20:37:02,908 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 316
+2019-11-25 20:37:02,968 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 243
+2019-11-25 20:37:02,968 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 243
+2019-11-25 20:37:03,077 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 938 - Marlinga, Carl to UUID 193 - context_text-Person-938
+2019-11-25 20:37:03,130 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 244 - Zentz, Debi ( adoptive parent ) to UUID 194 - context_text-Person-244
+2019-11-25 20:37:03,182 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 242 - Rose-Baumer, Victoria ( Julie's mother ) to UUID 195 - context_text-Person-242
+2019-11-25 20:37:03,234 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 940 - Zentz, Ben to UUID 196 - context_text-Person-940
+2019-11-25 20:37:03,285 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 942 - Lugosi, Charles to UUID 197 - context_text-Person-942
+2019-11-25 20:37:03,334 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 939 - Baumer, Philipp to UUID 198 - context_text-Person-939
+2019-11-25 20:37:03,382 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 941 - Baumer, Julie to UUID 199 - context_text-Person-941
+2019-11-25 20:37:03,428 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 316 - Biernat, James M. ( Macomb County Circuit Court Judge ) to UUID 200 - context_text-Person-316
+2019-11-25 20:37:03,476 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 243 - Zentz, Philip ( adoptive parent ) to UUID 201 - context_text-Person-243
+2019-11-25 20:37:06,681 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 91157
+2019-11-25 20:37:06,682 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 91157
+2019-11-25 20:37:06,711 - DEBUG - context_text.models - NOTE - Archive identifier: det55950251; source: NewsBank
+2019-11-25 20:37:06,764 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 56 - Shepardson, David ( Detroit News ) to UUID 147 - context_text-Person-56
+2019-11-25 20:37:06,768 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 255
+2019-11-25 20:37:06,769 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 255
+2019-11-25 20:37:06,827 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 248
+2019-11-25 20:37:06,827 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 248
+2019-11-25 20:37:06,884 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 926
+2019-11-25 20:37:06,885 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 926
+2019-11-25 20:37:06,954 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 250
+2019-11-25 20:37:06,954 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 250
+2019-11-25 20:37:07,012 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 927
+2019-11-25 20:37:07,012 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 927
+2019-11-25 20:37:07,117 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 255 - Camp, Dave ( Rep. ) to UUID 203 - context_text-Person-255
+2019-11-25 20:37:07,162 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 248 - Geithner, Timothy ( U.S. Treasury Secretary ) to UUID 204 - context_text-Person-248
+2019-11-25 20:37:07,207 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 926 - Detroit, David Shepardson to UUID 205 - context_text-Person-926
+2019-11-25 20:37:07,252 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 250 - Obama, Barack ( President, United States ) to UUID 206 - context_text-Person-250
+2019-11-25 20:37:07,296 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 927 - Sperling, Gene to UUID 207 - context_text-Person-927
+2019-11-25 20:37:08,456 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 91197
+2019-11-25 20:37:08,456 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 91197
+2019-11-25 20:37:08,485 - DEBUG - context_text.models - NOTE - Archive identifier: det56030897; source: NewsBank
+2019-11-25 20:37:08,538 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 183 - Hornbeck, Mark ( Detroit News ) to UUID 161 - context_text-Person-183
+2019-11-25 20:37:08,543 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 278
+2019-11-25 20:37:08,543 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 278
+2019-11-25 20:37:08,604 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 281
+2019-11-25 20:37:08,605 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 281
+2019-11-25 20:37:08,663 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 283
+2019-11-25 20:37:08,664 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 283
+2019-11-25 20:37:08,729 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 287
+2019-11-25 20:37:08,730 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 287
+2019-11-25 20:37:08,830 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 196 - George, Tom ( State Sen., R-Kalamazoo ) to UUID 157 - context_text-Person-196
+2019-11-25 20:37:08,833 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 284
+2019-11-25 20:37:08,833 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 284
+2019-11-25 20:37:08,892 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 282
+2019-11-25 20:37:08,892 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 282
+2019-11-25 20:37:08,950 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 285
+2019-11-25 20:37:08,950 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 285
+2019-11-25 20:37:09,008 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 280
+2019-11-25 20:37:09,008 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 280
+2019-11-25 20:37:09,068 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 279
+2019-11-25 20:37:09,069 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 279
+2019-11-25 20:37:09,129 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 286
+2019-11-25 20:37:09,129 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 286
+2019-11-25 20:37:09,239 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 102 - Granholm, Jennifer ( Governor of Michigan ) to UUID 72 - context_text-Person-102
+2019-11-25 20:37:09,291 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 281 - Bishop, Mike ( State Sen. Majority Leader, R-Rochester ) to UUID 210 - context_text-Person-281
+2019-11-25 20:37:09,345 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 283 - Jelinek, Ron ( State Sen., R-Three Oaks ) to UUID 211 - context_text-Person-283
+2019-11-25 20:37:09,395 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 287 - Brown, Toby ( Pinz Bowling Center ) to UUID 212 - context_text-Person-287
+2019-11-25 20:37:09,439 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 196 - George, Tom ( State Sen., R-Kalamazoo ) to UUID 157 - context_text-Person-196
+2019-11-25 20:37:09,490 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 284 - Schechter, Susan ( director of advocacy, American Lung Association Michigan chapter ) to UUID 213 - context_text-Person-284
+2019-11-25 20:37:09,536 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 282 - Binoniemi, Lance ( president, Michigan Licensed Beverae Association ) to UUID 214 - context_text-Person-282
+2019-11-25 20:37:09,584 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 285 - Dickens, Jamaine ( spokesman, MGM Grand Casino ) to UUID 215 - context_text-Person-285
+2019-11-25 20:37:09,631 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 280 - Dobt, Drew ( smoker ) to UUID 216 - context_text-Person-280
+2019-11-25 20:37:09,676 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 279 - Basham, Ray ( State Sen., D-Taylor ) to UUID 217 - context_text-Person-279
+2019-11-25 20:37:09,721 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 286 - Colbert, John ( owner, Baker's Keyboard Lounge ) to UUID 218 - context_text-Person-286
+2019-11-25 20:37:09,766 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 102 - Granholm, Jennifer ( Governor of Michigan ) to UUID 72 - context_text-Person-102
+2019-11-25 20:37:16,164 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 91199
+2019-11-25 20:37:16,164 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 91199
+2019-11-25 20:37:16,195 - DEBUG - context_text.models - NOTE - Archive identifier: det56025979; source: NewsBank
+2019-11-25 20:37:16,207 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 198
+2019-11-25 20:37:16,207 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 198
+2019-11-25 20:37:16,268 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 288
+2019-11-25 20:37:16,268 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 288
+2019-11-25 20:37:16,328 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 943
+2019-11-25 20:37:16,328 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 943
+2019-11-25 20:37:16,440 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 288 - Ruud, Jen ( organizer, Detroit Synergy ) to UUID 221 - context_text-Person-288
+2019-11-25 20:37:16,495 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 943 - Jr., Hirt to UUID 222 - context_text-Person-943
+2019-11-25 20:37:16,846 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 91254
+2019-11-25 20:37:16,846 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 91254
+2019-11-25 20:37:16,881 - DEBUG - context_text.models - NOTE - Archive identifier: det56123572; source: NewsBank
+2019-11-25 20:37:16,895 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 60
+2019-11-25 20:37:16,895 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 60
+2019-11-25 20:37:16,964 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 972
+2019-11-25 20:37:16,965 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 972
+2019-11-25 20:37:17,031 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 135
+2019-11-25 20:37:17,031 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 135
+2019-11-25 20:37:17,105 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 314
+2019-11-25 20:37:17,105 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 314
+2019-11-25 20:37:17,172 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 315
+2019-11-25 20:37:17,173 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 315
+2019-11-25 20:37:17,236 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 313
+2019-11-25 20:37:17,236 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 313
+2019-11-25 20:37:17,340 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 972 - Night, Noel to UUID 225 - context_text-Person-972
+2019-11-25 20:37:17,387 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 135 - Karmanos, Peter ( Compuware CEO ) to UUID 226 - context_text-Person-135
+2019-11-25 20:37:17,437 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 314 - Zachary, Ernest ( heads a Midtown Detroit urban planning and development firm ) to UUID 227 - context_text-Person-314
+2019-11-25 20:37:17,484 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 315 - Winters, Margaret ( chairwoman of WSU's Department of Classical and Modern Languages, Literatures and Cultures ) to UUID 228 - context_text-Person-315
+2019-11-25 20:37:17,531 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 313 - Korachis, John ( Detroit attorney ) to UUID 229 - context_text-Person-313
+2019-11-25 20:37:18,875 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 94104
+2019-11-25 20:37:18,875 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 94104
+2019-11-25 20:37:18,905 - DEBUG - context_text.models - NOTE - Archive identifier: det59832221; source: NewsBank
+2019-11-25 20:37:18,960 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 56 - Shepardson, David ( Detroit News ) to UUID 147 - context_text-Person-56
+2019-11-25 20:37:18,964 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1023
+2019-11-25 20:37:18,965 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1023
+2019-11-25 20:37:19,024 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1021
+2019-11-25 20:37:19,024 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1021
+2019-11-25 20:37:19,088 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 301
+2019-11-25 20:37:19,088 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 301
+2019-11-25 20:37:19,157 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1022
+2019-11-25 20:37:19,157 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1022
+2019-11-25 20:37:19,261 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1023 - Strickland, David to UUID 231 - context_text-Person-1023
+2019-11-25 20:37:19,306 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1021 - LaHood, Ray to UUID 232 - context_text-Person-1021
+2019-11-25 20:37:19,352 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 301 - Michels, Mike ( Toyota spokesman ) to UUID 233 - context_text-Person-301
+2019-11-25 20:37:19,399 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1022 - Inaba, Yoshimi to UUID 234 - context_text-Person-1022
+2019-11-25 20:37:20,178 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 94110
+2019-11-25 20:37:20,178 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 94110
+2019-11-25 20:37:20,208 - DEBUG - context_text.models - NOTE - Archive identifier: det59829459; source: NewsBank
+2019-11-25 20:37:20,220 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 297
+2019-11-25 20:37:20,220 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 297
+2019-11-25 20:37:20,277 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1020
+2019-11-25 20:37:20,277 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1020
+2019-11-25 20:37:20,337 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1018
+2019-11-25 20:37:20,337 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1018
+2019-11-25 20:37:20,397 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 300
+2019-11-25 20:37:20,397 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 300
+2019-11-25 20:37:20,471 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 298
+2019-11-25 20:37:20,471 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 298
+2019-11-25 20:37:20,533 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1017
+2019-11-25 20:37:20,533 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1017
+2019-11-25 20:37:20,596 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1019
+2019-11-25 20:37:20,596 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1019
+2019-11-25 20:37:20,657 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 299
+2019-11-25 20:37:20,657 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 299
+2019-11-25 20:37:20,760 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1020 - Sanderson, John to UUID 237 - context_text-Person-1020
+2019-11-25 20:37:20,805 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1018 - Laraia, Paul to UUID 238 - context_text-Person-1018
+2019-11-25 20:37:20,851 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 300 - Dworkin, Aaron ( founder and president of Sphinx Organization ) to UUID 239 - context_text-Person-300
+2019-11-25 20:37:20,901 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 298 - Johnson, Gareth ( violinist, winner of 13th Annual Sphinx Competition ) to UUID 240 - context_text-Person-298
+2019-11-25 20:37:20,952 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1017 - Goosby, Randall to UUID 241 - context_text-Person-1017
+2019-11-25 20:37:21,002 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1019 - Perlman, Itzhak to UUID 242 - context_text-Person-1019
+2019-11-25 20:37:21,054 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 299 - Sanderson, Jerome ( father of John Sanderson ) to UUID 243 - context_text-Person-299
+2019-11-25 20:37:23,106 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 94125
+2019-11-25 20:37:23,106 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 94125
+2019-11-25 20:37:23,136 - DEBUG - context_text.models - NOTE - Archive identifier: det59832004; source: NewsBank
+2019-11-25 20:37:23,190 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 183 - Hornbeck, Mark ( Detroit News ) to UUID 161 - context_text-Person-183
+2019-11-25 20:37:23,195 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1014
+2019-11-25 20:37:23,195 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1014
+2019-11-25 20:37:23,256 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1016
+2019-11-25 20:37:23,256 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1016
+2019-11-25 20:37:23,321 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 277
+2019-11-25 20:37:23,321 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 277
+2019-11-25 20:37:23,391 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 905
+2019-11-25 20:37:23,391 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 905
+2019-11-25 20:37:23,500 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 196 - George, Tom ( State Sen., R-Kalamazoo ) to UUID 157 - context_text-Person-196
+2019-11-25 20:37:23,503 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1010
+2019-11-25 20:37:23,503 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1010
+2019-11-25 20:37:23,566 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1011
+2019-11-25 20:37:23,566 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1011
+2019-11-25 20:37:23,628 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1013
+2019-11-25 20:37:23,628 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1013
+2019-11-25 20:37:23,688 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 763
+2019-11-25 20:37:23,688 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 763
+2019-11-25 20:37:23,792 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 184 - Dillon, Andy ( Speaker of the House ) to UUID 162 - context_text-Person-184
+2019-11-25 20:37:23,796 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 438
+2019-11-25 20:37:23,796 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 438
+2019-11-25 20:37:23,862 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1012
+2019-11-25 20:37:23,862 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1012
+2019-11-25 20:37:23,928 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1015
+2019-11-25 20:37:23,928 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1015
+2019-11-25 20:37:23,996 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 276
+2019-11-25 20:37:23,996 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 276
+2019-11-25 20:37:24,101 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1014 - Bouchard, Mike to UUID 245 - context_text-Person-1014
+2019-11-25 20:37:24,147 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1016 - Bowman, Bob to UUID 246 - context_text-Person-1016
+2019-11-25 20:37:24,192 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 277 - Suski, Jake ( spokesman for Rick Snyder ) to UUID 247 - context_text-Person-277
+2019-11-25 20:37:24,239 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 905 - Detroit, Mark Hornbeck to UUID 248 - context_text-Person-905
+2019-11-25 20:37:24,284 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 196 - George, Tom ( State Sen., R-Kalamazoo ) to UUID 157 - context_text-Person-196
+2019-11-25 20:37:24,329 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1010 - Smith, Alma Wheeler to UUID 249 - context_text-Person-1010
+2019-11-25 20:37:24,376 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1011 - Kildee, Dan to UUID 250 - context_text-Person-1011
+2019-11-25 20:37:24,422 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1013 - Ilitch, Denise to UUID 251 - context_text-Person-1013
+2019-11-25 20:37:24,471 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 763 - Hoekstra, Pete to UUID 252 - context_text-Person-763
+2019-11-25 20:37:24,520 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 184 - Dillon, Andy ( Speaker of the House ) to UUID 162 - context_text-Person-184
+2019-11-25 20:37:24,568 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 438 - Cox, Mike ( MI Attorney General ) to UUID 253 - context_text-Person-438
+2019-11-25 20:37:24,615 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1012 - DeVos, Dick to UUID 254 - context_text-Person-1012
+2019-11-25 20:37:24,662 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1015 - Bernero, Virg to UUID 255 - context_text-Person-1015
+2019-11-25 20:37:24,707 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 276 - Snyder, Rick ( MI Republican Gubernatorial Candidate ) to UUID 256 - context_text-Person-276
+2019-11-25 20:37:30,875 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 94128
+2019-11-25 20:37:30,875 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 94128
+2019-11-25 20:37:30,906 - DEBUG - context_text.models - NOTE - Archive identifier: det59813040; source: NewsBank
+2019-11-25 20:37:30,918 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 293
+2019-11-25 20:37:30,918 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 293
+2019-11-25 20:37:30,980 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 294
+2019-11-25 20:37:30,980 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 294
+2019-11-25 20:37:31,041 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 296
+2019-11-25 20:37:31,041 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 296
+2019-11-25 20:37:31,152 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 294 - Johnson, Amy ( Teacher's Pet creator ) to UUID 259 - context_text-Person-294
+2019-11-25 20:37:31,207 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 296 - Beale, Laura ( Children's Village supervisor ) to UUID 260 - context_text-Person-296
+2019-11-25 20:37:31,698 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 94140
+2019-11-25 20:37:31,698 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 94140
+2019-11-25 20:37:31,732 - DEBUG - context_text.models - NOTE - Archive identifier: det59883980; source: NewsBank
+2019-11-25 20:37:31,744 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 117
+2019-11-25 20:37:31,744 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 117
+2019-11-25 20:37:31,808 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 267
+2019-11-25 20:37:31,808 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 267
+2019-11-25 20:37:31,867 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 266
+2019-11-25 20:37:31,868 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 266
+2019-11-25 20:37:31,980 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 267 - Schaller, Russell ( Rev. ) to UUID 263 - context_text-Person-267
+2019-11-25 20:37:32,026 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 266 - Alderman, Robert ( River Rouge Police Chief ) to UUID 264 - context_text-Person-266
+2019-11-25 20:37:32,510 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 94301
+2019-11-25 20:37:32,510 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 94301
+2019-11-25 20:37:32,542 - DEBUG - context_text.models - NOTE - Archive identifier: det60037566; source: NewsBank
+2019-11-25 20:37:32,606 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 60 - Aguilar, Louis ( Detroit News ) to UUID 224 - context_text-Person-60
+2019-11-25 20:37:32,611 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 235
+2019-11-25 20:37:32,611 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 235
+2019-11-25 20:37:32,673 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 241
+2019-11-25 20:37:32,674 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 241
+2019-11-25 20:37:32,734 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 240
+2019-11-25 20:37:32,734 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 240
+2019-11-25 20:37:32,803 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 238
+2019-11-25 20:37:32,803 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 238
+2019-11-25 20:37:32,906 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 235 - Russell, W. Dodd ( president of Skilled Manufacturing, Inc. ) to UUID 266 - context_text-Person-235
+2019-11-25 20:37:32,954 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 241 - Korth, Kim ( founder and president of IRN ) to UUID 267 - context_text-Person-241
+2019-11-25 20:37:32,999 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 240 - Gillette, James ( supplier expert with CSM Worldwide ) to UUID 268 - context_text-Person-240
+2019-11-25 20:37:33,047 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 238 - Hill, Kim ( analyst at the Center for Automotive Research ) to UUID 269 - context_text-Person-238
+2019-11-25 20:37:34,366 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 94311
+2019-11-25 20:37:34,367 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 94311
+2019-11-25 20:37:34,397 - DEBUG - context_text.models - NOTE - Archive identifier: det60050782; source: NewsBank
+2019-11-25 20:37:34,456 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 56 - Shepardson, David ( Detroit News ) to UUID 147 - context_text-Person-56
+2019-11-25 20:37:34,502 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 155 - Priddle, Alisa ( Detroit News ) to UUID 135 - context_text-Person-155
+2019-11-25 20:37:34,506 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1026
+2019-11-25 20:37:34,507 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1026
+2019-11-25 20:37:34,569 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1025
+2019-11-25 20:37:34,569 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1025
+2019-11-25 20:37:34,640 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1028
+2019-11-25 20:37:34,640 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1028
+2019-11-25 20:37:34,743 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1021 - LaHood, Ray to UUID 232 - context_text-Person-1021
+2019-11-25 20:37:34,746 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1024
+2019-11-25 20:37:34,746 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1024
+2019-11-25 20:37:34,806 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 249
+2019-11-25 20:37:34,806 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 249
+2019-11-25 20:37:34,869 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 317
+2019-11-25 20:37:34,869 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 317
+2019-11-25 20:37:34,929 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 251
+2019-11-25 20:37:34,929 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 251
+2019-11-25 20:37:34,989 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1027
+2019-11-25 20:37:34,990 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1027
+2019-11-25 20:37:35,053 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 755
+2019-11-25 20:37:35,053 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 755
+2019-11-25 20:37:35,123 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 253
+2019-11-25 20:37:35,123 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 253
+2019-11-25 20:37:35,190 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 247
+2019-11-25 20:37:35,190 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 247
+2019-11-25 20:37:35,256 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 256
+2019-11-25 20:37:35,257 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 256
+2019-11-25 20:37:35,320 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 245
+2019-11-25 20:37:35,320 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 245
+2019-11-25 20:37:35,380 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 254
+2019-11-25 20:37:35,380 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 254
+2019-11-25 20:37:35,442 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 246
+2019-11-25 20:37:35,442 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 246
+2019-11-25 20:37:35,550 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1026 - Daniels, Mitch to UUID 271 - context_text-Person-1026
+2019-11-25 20:37:35,597 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1025 - Beshear, Steve to UUID 272 - context_text-Person-1025
+2019-11-25 20:37:35,644 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1028 - Riley, Bob to UUID 273 - context_text-Person-1028
+2019-11-25 20:37:35,691 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1021 - LaHood, Ray to UUID 232 - context_text-Person-1021
+2019-11-25 20:37:35,736 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1024 - Biller, Dimitrios to UUID 274 - context_text-Person-1024
+2019-11-25 20:37:35,782 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 249 - Kim, Ed ( director of industry analysis for AutoPacific in Tustin, Calif ) to UUID 275 - context_text-Person-249
+2019-11-25 20:37:35,828 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 317 - Toyoda, Akio ( president, Toyota ) to UUID 276 - context_text-Person-317
+2019-11-25 20:37:35,874 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 251 - Reuss, Mark ( president of GM North America ) to UUID 277 - context_text-Person-251
+2019-11-25 20:37:35,919 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1027 - Barbour, Haley to UUID 278 - context_text-Person-1027
+2019-11-25 20:37:35,965 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 755 - Allen, Jeffrey to UUID 279 - context_text-Person-755
+2019-11-25 20:37:36,010 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 253 - Farley, Jim ( head of global marketing, Ford ) to UUID 280 - context_text-Person-253
+2019-11-25 20:37:36,059 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 247 - Polirer, Howard ( director of industry relations for AutoTrader.com ) to UUID 281 - context_text-Person-247
+2019-11-25 20:37:36,105 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 256 - Howard, P. Tim ( Northeastern University law professor ) to UUID 282 - context_text-Person-256
+2019-11-25 20:37:36,151 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 245 - Issa, Darrell ( Rep. ) to UUID 283 - context_text-Person-245
+2019-11-25 20:37:36,196 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 254 - Antonius, Kurt ( Honda spokesman ) to UUID 284 - context_text-Person-254
+2019-11-25 20:37:36,241 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 246 - Carter, Bob ( head of Toyota brand sales in the U.S. ) to UUID 285 - context_text-Person-246
+2019-11-25 20:37:46,793 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 94326
+2019-11-25 20:37:46,793 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 94326
+2019-11-25 20:37:46,824 - DEBUG - context_text.models - NOTE - Archive identifier: det60032698; source: NewsBank
+2019-11-25 20:37:46,837 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 257
+2019-11-25 20:37:46,837 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 257
+2019-11-25 20:37:46,899 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1034
+2019-11-25 20:37:46,899 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1034
+2019-11-25 20:37:46,960 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1033
+2019-11-25 20:37:46,960 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1033
+2019-11-25 20:37:47,020 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1037
+2019-11-25 20:37:47,020 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1037
+2019-11-25 20:37:47,095 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 148
+2019-11-25 20:37:47,095 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 148
+2019-11-25 20:37:47,160 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1030
+2019-11-25 20:37:47,161 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1030
+2019-11-25 20:37:47,224 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1031
+2019-11-25 20:37:47,224 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1031
+2019-11-25 20:37:47,284 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1032
+2019-11-25 20:37:47,285 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1032
+2019-11-25 20:37:47,355 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1036
+2019-11-25 20:37:47,355 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1036
+2019-11-25 20:37:47,424 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1035
+2019-11-25 20:37:47,424 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1035
+2019-11-25 20:37:47,536 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1034 - Garrett, Jessica Rayner to UUID 288 - context_text-Person-1034
+2019-11-25 20:37:47,588 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1033 - Schwarck, Paul to UUID 289 - context_text-Person-1033
+2019-11-25 20:37:47,639 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1037 - Bonno, Joshua to UUID 290 - context_text-Person-1037
+2019-11-25 20:37:47,692 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 148 - Stuckey II, Donald ( EMU student ) to UUID 291 - context_text-Person-148
+2019-11-25 20:37:47,741 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1030 - Schwarck, Matt to UUID 292 - context_text-Person-1030
+2019-11-25 20:37:47,787 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1031 - Schwarck, Karen Irene to UUID 293 - context_text-Person-1031
+2019-11-25 20:37:47,885 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1036 - Rayner, Irene to UUID 295 - context_text-Person-1036
+2019-11-25 20:37:47,931 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1035 - Rayner, Eric to UUID 296 - context_text-Person-1035
+2019-11-25 20:37:50,587 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 94405
+2019-11-25 20:37:50,587 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 94405
+2019-11-25 20:37:50,617 - DEBUG - context_text.models - NOTE - Archive identifier: det60232720; source: NewsBank
+2019-11-25 20:37:50,630 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 592
+2019-11-25 20:37:50,630 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 592
+2019-11-25 20:37:50,693 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1046
+2019-11-25 20:37:50,693 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1046
+2019-11-25 20:37:50,753 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 756
+2019-11-25 20:37:50,754 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 756
+2019-11-25 20:37:50,814 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1045
+2019-11-25 20:37:50,814 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1045
+2019-11-25 20:37:50,929 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1046 - Kenny, Timothy to UUID 299 - context_text-Person-1046
+2019-11-25 20:37:50,974 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 756 - Loussia, Nick to UUID 300 - context_text-Person-756
+2019-11-25 20:37:51,019 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1045 - Lang, Kenneth to UUID 301 - context_text-Person-1045
+2019-11-25 20:37:51,574 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 94417
+2019-11-25 20:37:51,574 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 94417
+2019-11-25 20:37:51,605 - DEBUG - context_text.models - NOTE - Archive identifier: det60232766; source: NewsBank
+2019-11-25 20:37:51,619 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 211
+2019-11-25 20:37:51,619 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 211
+2019-11-25 20:37:51,677 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 214
+2019-11-25 20:37:51,677 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 214
+2019-11-25 20:37:51,737 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 216
+2019-11-25 20:37:51,737 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 216
+2019-11-25 20:37:51,799 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 212
+2019-11-25 20:37:51,799 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 212
+2019-11-25 20:37:51,909 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 214 - Rustem, William ( president and CEO of Lansing-based Public Sector Consultants ) to UUID 304 - context_text-Person-214
+2019-11-25 20:37:51,954 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 216 - Spivey, Andre ( Detroit City Councilman ) to UUID 305 - context_text-Person-216
+2019-11-25 20:37:52,000 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 212 - Bing, Dave ( Mayor of Detroit ) to UUID 306 - context_text-Person-212
+2019-11-25 20:37:52,849 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 94430
+2019-11-25 20:37:52,849 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 94430
+2019-11-25 20:37:52,879 - DEBUG - context_text.models - NOTE - Archive identifier: det60231701; source: NewsBank
+2019-11-25 20:37:52,934 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 56 - Shepardson, David ( Detroit News ) to UUID 147 - context_text-Person-56
+2019-11-25 20:37:52,939 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1041
+2019-11-25 20:37:52,939 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1041
+2019-11-25 20:37:52,999 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1039
+2019-11-25 20:37:52,999 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1039
+2019-11-25 20:37:53,061 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1040
+2019-11-25 20:37:53,061 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1040
+2019-11-25 20:37:53,135 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1042
+2019-11-25 20:37:53,135 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1042
+2019-11-25 20:37:53,240 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1041 - Whitacre, Edward to UUID 308 - context_text-Person-1041
+2019-11-25 20:37:53,289 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1039 - Liberatore, Robert to UUID 309 - context_text-Person-1039
+2019-11-25 20:37:53,343 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1040 - Bozzella, John to UUID 310 - context_text-Person-1040
+2019-11-25 20:37:53,391 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1042 - Nardelli, Sergio to UUID 311 - context_text-Person-1042
+2019-11-25 20:37:54,108 - DEBUG - context.shared.models - No entities with identifier of type article_sourcenet_id, uuid = 94442
+2019-11-25 20:37:54,108 - DEBUG - context.shared.models - Creating entity with identifier of type article_sourcenet_id, uuid = 94442
+2019-11-25 20:37:54,138 - DEBUG - context_text.models - NOTE - Archive identifier: det60231588; source: NewsBank
+2019-11-25 20:37:54,192 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 198 - Trop, Jaclyn ( Detroit News ) to UUID 220 - context_text-Person-198
+2019-11-25 20:37:54,197 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 1038
+2019-11-25 20:37:54,197 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 1038
+2019-11-25 20:37:54,258 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 203
+2019-11-25 20:37:54,258 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 203
+2019-11-25 20:37:54,318 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 202
+2019-11-25 20:37:54,318 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 202
+2019-11-25 20:37:54,385 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 201
+2019-11-25 20:37:54,385 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 201
+2019-11-25 20:37:54,447 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 200
+2019-11-25 20:37:54,447 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 200
+2019-11-25 20:37:54,512 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 199
+2019-11-25 20:37:54,513 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 199
+2019-11-25 20:37:54,574 - DEBUG - context.shared.models - No entities with identifier of type person_sourcenet_id, uuid = 205
+2019-11-25 20:37:54,574 - DEBUG - context.shared.models - Creating entity with identifier of type person_sourcenet_id, uuid = 205
+2019-11-25 20:37:54,680 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 1038 - Stassinopoulos, Leo to UUID 313 - context_text-Person-1038
+2019-11-25 20:37:54,726 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 203 - Balzer, Harry ( Chicago-based vice president at NPD Group ) to UUID 314 - context_text-Person-203
+2019-11-25 20:37:54,773 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 202 - Egan, Bradford ( director of business development, National Coney Island ) to UUID 315 - context_text-Person-202
+2019-11-25 20:37:54,820 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 201 - Kaplan, Dana ( West Bloomfield native living in Chicago ) to UUID 316 - context_text-Person-201
+2019-11-25 20:37:54,874 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 200 - Stassinopoulos Jr., Leo ( director of franchising. Leo's Coney Island (and son of THE Leo) ) to UUID 317 - context_text-Person-200
+2019-11-25 20:37:54,928 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 199 - Goldhaber, Lou ( co-owner of the Chicago Leo's Coney Island ) to UUID 318 - context_text-Person-199
+2019-11-25 20:37:54,981 - DEBUG - context_text.models - In Person.update_entity: ----> Entity Identifier created tie from 205 - Sullivan, Patty ( spokeswoman for Portillo's Restaurant Group ) to UUID 319 - context_text-Person-205
+2019-11-25 20:37:57,902 - INFO - context_text.export.to_context_base.export_to_context.ExportToContext - 
+Summary:
+2019-11-25 20:37:57,903 - INFO - context_text.export.to_context_base.export_to_context.ExportToContext - - good count: 46
+2019-11-25 20:37:57,903 - INFO - context_text.export.to_context_base.export_to_context.ExportToContext - - > 1 count: 0
+2019-11-25 20:37:57,903 - INFO - context_text.export.to_context_base.export_to_context.ExportToContext - - 0 count: 0
+2019-11-25 20:37:57,903 - INFO - context_text.export.to_context_base.export_to_context.ExportToContext - - unexpected count: 0
