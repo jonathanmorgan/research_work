@@ -1,0 +1,2 @@
+2019-11-26 16:37:17,664 - INFO - sourcenet-to-context - 2019-11-26 16:37:17.664709 - Loaded automated user: automated, id = 2
+2019-11-26 16:37:19,084 - INFO - sourcenet-to-context - Found 43843 articles
