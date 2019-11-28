@@ -1,2 +1,8 @@
 2019-11-26 16:42:00,546 - INFO - sourcenet-to-context - 2019-11-26 16:42:00.546618 - Loaded automated user: automated, id = 2
 2019-11-26 16:42:01,502 - INFO - sourcenet-to-context - Found 43843 articles
+2019-11-28 12:13:50,860 - INFO - context_text.export.to_context_base.export_to_context.ExportToContext - 
+Summary:
+2019-11-28 12:13:50,861 - INFO - context_text.export.to_context_base.export_to_context.ExportToContext - - good count: 43843
+2019-11-28 12:13:50,861 - INFO - context_text.export.to_context_base.export_to_context.ExportToContext - - > 1 count: 0
+2019-11-28 12:13:50,861 - INFO - context_text.export.to_context_base.export_to_context.ExportToContext - - 0 count: 0
+2019-11-28 12:13:50,861 - INFO - context_text.export.to_context_base.export_to_context.ExportToContext - - unexpected count: 0
