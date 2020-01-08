@@ -1,0 +1,888 @@
+2020-01-03 17:21:23,714 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - In get_selection_filters(): use_entity_selection_IN is False
+2020-01-03 17:21:25,126 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+In build_filter_spec_q(): comparison type = AND
+
+2020-01-03 17:21:25,127 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - ----> In build_filter_spec_q(): calling aggregate method.
+2020-01-03 17:21:25,127 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+In build_filter_spec_q(): comparison type = includes
+
+2020-01-03 17:21:25,127 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+In build_filter_spec_q(): comparison type = AND
+
+2020-01-03 17:21:25,127 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - ----> In build_filter_spec_q(): calling aggregate method.
+2020-01-03 17:21:25,128 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+In build_filter_spec_q(): comparison type = in_range
+
+2020-01-03 17:21:25,128 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+In build_filter_spec_q(): comparison type = includes
+
+2020-01-03 17:21:25,128 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+In build_filter_spec_q(): comparison type = includes
+
+2020-01-03 17:21:25,128 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+In build_filter_spec_q(): comparison type = AND
+
+2020-01-03 17:21:25,128 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - ----> In build_filter_spec_q(): calling aggregate method.
+2020-01-03 17:21:25,128 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+In build_filter_spec_q(): comparison type = includes
+
+2020-01-03 17:21:25,129 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+In build_filter_spec_q(): comparison type = includes
+
+2020-01-03 17:21:25,129 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+In build_filter_spec_q(): comparison type = includes
+
+2020-01-03 17:21:25,129 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+In build_filter_spec_q(): comparison type = includes
+
+2020-01-03 17:21:26,520 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[0] In filter_relations_by_filter_spec():
+- filter = <context.export.network.filter_spec.FilterSpec object at 0x7fe85358beb8>
+- level = 0
+- recursion stack: []
+2020-01-03 17:21:26,521 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - - filter dict:
+{
+    "comparison_type": "AND",
+    "filter_type": "AND",
+    "value_list": [
+        {
+            "comparison_type": "includes",
+            "filter_type": "relation_type_slug",
+            "relation_roles_list": [
+                "ALL"
+            ],
+            "value_list": [
+                "mentioned",
+                "quoted",
+                "shared_byline"
+            ]
+        },
+        {
+            "comparison_type": "AND",
+            "filter_type": "relation_trait",
+            "value_list": [
+                {
+                    "comparison_type": "in_range",
+                    "data_type": "date",
+                    "filter_type": "relation_trait",
+                    "name": "pub_date",
+                    "relation_roles_list": [
+                        "ALL"
+                    ],
+                    "value_from": "2009-12-01",
+                    "value_to": "2009-12-31"
+                },
+                {
+                    "comparison_type": "includes",
+                    "data_type": "string",
+                    "filter_type": "relation_trait",
+                    "name": "sourcenet-coder-User-username",
+                    "relation_roles_list": [
+                        "ALL"
+                    ],
+                    "value_list": [
+                        "automated"
+                    ]
+                },
+                {
+                    "comparison_type": "includes",
+                    "data_type": "string",
+                    "filter_type": "relation_trait",
+                    "name": "coder_type",
+                    "relation_roles_list": [
+                        "ALL"
+                    ],
+                    "value_list": [
+                        "OpenCalais_REST_API_v2"
+                    ]
+                }
+            ]
+        },
+        {
+            "comparison_type": "AND",
+            "filter_type": "entity_type_slug",
+            "value_list": [
+                {
+                    "comparison_type": "includes",
+                    "filter_type": "entity_type_slug",
+                    "relation_roles_list": [
+                        "FROM"
+                    ],
+                    "value_list": [
+                        "person"
+                    ]
+                },
+                {
+                    "comparison_type": "includes",
+                    "filter_type": "entity_type_slug",
+                    "relation_roles_list": [
+                        "TO"
+                    ],
+                    "value_list": [
+                        "person"
+                    ]
+                },
+                {
+                    "comparison_type": "includes",
+                    "filter_type": "entity_type_slug",
+                    "relation_roles_list": [
+                        "THROUGH"
+                    ],
+                    "value_list": [
+                        "article"
+                    ]
+                }
+            ]
+        },
+        {
+            "comparison_type": "includes",
+            "data_type": "int",
+            "filter_type": "entity_trait",
+            "name": "sourcenet-Newspaper-ID",
+            "relation_roles_list": [
+                "THROUGH"
+            ],
+            "value_list": [
+                1
+            ]
+        }
+    ]
+}
+2020-01-03 17:21:26,521 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - - comparison type = AND
+2020-01-03 17:21:26,521 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[0] ----> In filter_relations_by_filter_spec(): aggregate ( AND ) filter_spec.  Looping over 4 children ( [<context.export.network.filter_spec.FilterSpec object at 0x7fe853557a58>, <context.export.network.filter_spec.FilterSpec object at 0x7fe8534e7400>, <context.export.network.filter_spec.FilterSpec object at 0x7fe853557198>, <context.export.network.filter_spec.FilterSpec object at 0x7fe8534e7438>] ).
+2020-01-03 17:21:26,521 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[0] --------> In filter_relations_by_filter_spec(): child item #1 - comparison type = includes; JSON:
+{
+    "comparison_type": "includes",
+    "filter_type": "relation_type_slug",
+    "relation_roles_list": [
+        "ALL"
+    ],
+    "value_list": [
+        "mentioned",
+        "quoted",
+        "shared_byline"
+    ]
+}
+2020-01-03 17:21:26,522 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[0] --------> In filter_relations_by_filter_spec(): child item #2 - comparison type = AND; JSON:
+{
+    "comparison_type": "AND",
+    "filter_type": "relation_trait",
+    "value_list": [
+        {
+            "comparison_type": "in_range",
+            "data_type": "date",
+            "filter_type": "relation_trait",
+            "name": "pub_date",
+            "relation_roles_list": [
+                "ALL"
+            ],
+            "value_from": "2009-12-01",
+            "value_to": "2009-12-31"
+        },
+        {
+            "comparison_type": "includes",
+            "data_type": "string",
+            "filter_type": "relation_trait",
+            "name": "sourcenet-coder-User-username",
+            "relation_roles_list": [
+                "ALL"
+            ],
+            "value_list": [
+                "automated"
+            ]
+        },
+        {
+            "comparison_type": "includes",
+            "data_type": "string",
+            "filter_type": "relation_trait",
+            "name": "coder_type",
+            "relation_roles_list": [
+                "ALL"
+            ],
+            "value_list": [
+                "OpenCalais_REST_API_v2"
+            ]
+        }
+    ]
+}
+2020-01-03 17:21:26,522 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - In filter_relations_by_filter_spec(): Child is an aggregate comparison type ( AND ).  Parent comparison type: AND  Making recursive call to filter_relations_by_filter_spec() ( filter spec: <context.export.network.filter_spec.FilterSpec object at 0x7fe8534e7400> ).  ( level: 0; recursion stack: [] ). 
+2020-01-03 17:21:26,522 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[1] In filter_relations_by_filter_spec():
+- filter = <context.export.network.filter_spec.FilterSpec object at 0x7fe8534e7400>
+- level = 1
+- recursion stack: ['AND']
+2020-01-03 17:21:26,522 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - - filter dict:
+{
+    "comparison_type": "AND",
+    "filter_type": "relation_trait",
+    "value_list": [
+        {
+            "comparison_type": "in_range",
+            "data_type": "date",
+            "filter_type": "relation_trait",
+            "name": "pub_date",
+            "relation_roles_list": [
+                "ALL"
+            ],
+            "value_from": "2009-12-01",
+            "value_to": "2009-12-31"
+        },
+        {
+            "comparison_type": "includes",
+            "data_type": "string",
+            "filter_type": "relation_trait",
+            "name": "sourcenet-coder-User-username",
+            "relation_roles_list": [
+                "ALL"
+            ],
+            "value_list": [
+                "automated"
+            ]
+        },
+        {
+            "comparison_type": "includes",
+            "data_type": "string",
+            "filter_type": "relation_trait",
+            "name": "coder_type",
+            "relation_roles_list": [
+                "ALL"
+            ],
+            "value_list": [
+                "OpenCalais_REST_API_v2"
+            ]
+        }
+    ]
+}
+2020-01-03 17:21:26,522 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - - comparison type = AND
+2020-01-03 17:21:26,523 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[1] ----> In filter_relations_by_filter_spec(): aggregate ( AND ) filter_spec.  Looping over 3 children ( [<context.export.network.filter_spec.FilterSpec object at 0x7fe8534e74e0>, <context.export.network.filter_spec.FilterSpec object at 0x7fe85353f940>, <context.export.network.filter_spec.FilterSpec object at 0x7fe8534e7ac8>] ).
+2020-01-03 17:21:26,523 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[1] --------> In filter_relations_by_filter_spec(): child item #1 - comparison type = in_range; JSON:
+{
+    "comparison_type": "in_range",
+    "data_type": "date",
+    "filter_type": "relation_trait",
+    "name": "pub_date",
+    "relation_roles_list": [
+        "ALL"
+    ],
+    "value_from": "2009-12-01",
+    "value_to": "2009-12-31"
+}
+2020-01-03 17:21:26,523 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[1] --------> In filter_relations_by_filter_spec(): child item #2 - comparison type = includes; JSON:
+{
+    "comparison_type": "includes",
+    "data_type": "string",
+    "filter_type": "relation_trait",
+    "name": "sourcenet-coder-User-username",
+    "relation_roles_list": [
+        "ALL"
+    ],
+    "value_list": [
+        "automated"
+    ]
+}
+2020-01-03 17:21:26,523 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[1] --------> In filter_relations_by_filter_spec(): child item #3 - comparison type = includes; JSON:
+{
+    "comparison_type": "includes",
+    "data_type": "string",
+    "filter_type": "relation_trait",
+    "name": "coder_type",
+    "relation_roles_list": [
+        "ALL"
+    ],
+    "value_list": [
+        "OpenCalais_REST_API_v2"
+    ]
+}
+2020-01-03 17:21:26,524 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[0] --------> In filter_relations_by_filter_spec(): child item #3 - comparison type = AND; JSON:
+{
+    "comparison_type": "AND",
+    "filter_type": "entity_type_slug",
+    "value_list": [
+        {
+            "comparison_type": "includes",
+            "filter_type": "entity_type_slug",
+            "relation_roles_list": [
+                "FROM"
+            ],
+            "value_list": [
+                "person"
+            ]
+        },
+        {
+            "comparison_type": "includes",
+            "filter_type": "entity_type_slug",
+            "relation_roles_list": [
+                "TO"
+            ],
+            "value_list": [
+                "person"
+            ]
+        },
+        {
+            "comparison_type": "includes",
+            "filter_type": "entity_type_slug",
+            "relation_roles_list": [
+                "THROUGH"
+            ],
+            "value_list": [
+                "article"
+            ]
+        }
+    ]
+}
+2020-01-03 17:21:26,524 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - In filter_relations_by_filter_spec(): Child is an aggregate comparison type ( AND ).  Parent comparison type: AND  Making recursive call to filter_relations_by_filter_spec() ( filter spec: <context.export.network.filter_spec.FilterSpec object at 0x7fe853557198> ).  ( level: 0; recursion stack: [] ). 
+2020-01-03 17:21:26,524 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[1] In filter_relations_by_filter_spec():
+- filter = <context.export.network.filter_spec.FilterSpec object at 0x7fe853557198>
+- level = 1
+- recursion stack: ['AND']
+2020-01-03 17:21:26,524 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - - filter dict:
+{
+    "comparison_type": "AND",
+    "filter_type": "entity_type_slug",
+    "value_list": [
+        {
+            "comparison_type": "includes",
+            "filter_type": "entity_type_slug",
+            "relation_roles_list": [
+                "FROM"
+            ],
+            "value_list": [
+                "person"
+            ]
+        },
+        {
+            "comparison_type": "includes",
+            "filter_type": "entity_type_slug",
+            "relation_roles_list": [
+                "TO"
+            ],
+            "value_list": [
+                "person"
+            ]
+        },
+        {
+            "comparison_type": "includes",
+            "filter_type": "entity_type_slug",
+            "relation_roles_list": [
+                "THROUGH"
+            ],
+            "value_list": [
+                "article"
+            ]
+        }
+    ]
+}
+2020-01-03 17:21:26,524 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - - comparison type = AND
+2020-01-03 17:21:26,524 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[1] ----> In filter_relations_by_filter_spec(): aggregate ( AND ) filter_spec.  Looping over 3 children ( [<context.export.network.filter_spec.FilterSpec object at 0x7fe85358b7b8>, <context.export.network.filter_spec.FilterSpec object at 0x7fe85358bf98>, <context.export.network.filter_spec.FilterSpec object at 0x7fe85358b978>] ).
+2020-01-03 17:21:26,525 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[1] --------> In filter_relations_by_filter_spec(): child item #1 - comparison type = includes; JSON:
+{
+    "comparison_type": "includes",
+    "filter_type": "entity_type_slug",
+    "relation_roles_list": [
+        "FROM"
+    ],
+    "value_list": [
+        "person"
+    ]
+}
+2020-01-03 17:21:26,525 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[1] --------> In filter_relations_by_filter_spec(): child item #2 - comparison type = includes; JSON:
+{
+    "comparison_type": "includes",
+    "filter_type": "entity_type_slug",
+    "relation_roles_list": [
+        "TO"
+    ],
+    "value_list": [
+        "person"
+    ]
+}
+2020-01-03 17:21:26,525 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[1] --------> In filter_relations_by_filter_spec(): child item #3 - comparison type = includes; JSON:
+{
+    "comparison_type": "includes",
+    "filter_type": "entity_type_slug",
+    "relation_roles_list": [
+        "THROUGH"
+    ],
+    "value_list": [
+        "article"
+    ]
+}
+2020-01-03 17:21:26,526 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[0] --------> In filter_relations_by_filter_spec(): child item #4 - comparison type = includes; JSON:
+{
+    "comparison_type": "includes",
+    "data_type": "int",
+    "filter_type": "entity_trait",
+    "name": "sourcenet-Newspaper-ID",
+    "relation_roles_list": [
+        "THROUGH"
+    ],
+    "value_list": [
+        1
+    ]
+}
+2020-01-03 17:22:03,478 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - In get_selection_filters(): use_entity_selection_IN is False
+2020-01-03 17:22:06,621 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+In build_filter_spec_q(): comparison type = AND
+
+2020-01-03 17:22:06,621 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - ----> In build_filter_spec_q(): calling aggregate method.
+2020-01-03 17:22:06,621 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+In build_filter_spec_q(): comparison type = includes
+
+2020-01-03 17:22:06,622 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+In build_filter_spec_q(): comparison type = AND
+
+2020-01-03 17:22:06,622 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - ----> In build_filter_spec_q(): calling aggregate method.
+2020-01-03 17:22:06,622 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+In build_filter_spec_q(): comparison type = equals
+
+2020-01-03 17:22:06,623 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+In build_filter_spec_q(): comparison type = equals
+
+2020-01-03 17:22:06,623 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+In build_filter_spec_q(): comparison type = equals
+
+2020-01-03 17:22:06,623 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+In build_filter_spec_q(): comparison type = AND
+
+2020-01-03 17:22:06,624 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - ----> In build_filter_spec_q(): calling aggregate method.
+2020-01-03 17:22:06,624 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+In build_filter_spec_q(): comparison type = in_range
+
+2020-01-03 17:22:06,624 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+In build_filter_spec_q(): comparison type = includes
+
+2020-01-03 17:22:06,624 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+In build_filter_spec_q(): comparison type = includes
+
+2020-01-03 17:22:06,624 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+In build_filter_spec_q(): comparison type = includes
+
+2020-01-03 17:22:07,558 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[0] In filter_relations_by_filter_spec():
+- filter = <context.export.network.filter_spec.FilterSpec object at 0x7fe8535356a0>
+- level = 0
+- recursion stack: []
+2020-01-03 17:22:07,559 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - - filter dict:
+{
+    "comparison_type": "AND",
+    "filter_type": "AND",
+    "value_list": [
+        {
+            "comparison_type": "includes",
+            "filter_type": "relation_type_slug",
+            "relation_roles_list": [
+                "ALL"
+            ],
+            "value_list": [
+                "mentioned",
+                "quoted",
+                "shared_byline"
+            ]
+        },
+        {
+            "comparison_type": "AND",
+            "filter_type": "entity_type_slug",
+            "value_list": [
+                {
+                    "comparison_type": "equals",
+                    "filter_type": "entity_type_slug",
+                    "relation_roles_list": [
+                        "FROM"
+                    ],
+                    "value": "person"
+                },
+                {
+                    "comparison_type": "equals",
+                    "filter_type": "entity_type_slug",
+                    "relation_roles_list": [
+                        "TO"
+                    ],
+                    "value": "person"
+                },
+                {
+                    "comparison_type": "equals",
+                    "filter_type": "entity_type_slug",
+                    "relation_roles_list": [
+                        "THROUGH"
+                    ],
+                    "value": "article"
+                }
+            ]
+        },
+        {
+            "comparison_type": "AND",
+            "filter_type": "relation_trait",
+            "value_list": [
+                {
+                    "comparison_type": "in_range",
+                    "filter_type": "relation_trait",
+                    "name": "pub_date",
+                    "relation_roles_list": [
+                        "ALL"
+                    ],
+                    "value_from": "2009-12-01",
+                    "value_to": "2009-12-31"
+                },
+                {
+                    "comparison_type": "includes",
+                    "filter_type": "relation_trait",
+                    "name": "sourcenet-coder-User-username",
+                    "relation_roles_list": [
+                        "ALL"
+                    ],
+                    "value_list": [
+                        "automated"
+                    ]
+                },
+                {
+                    "comparison_type": "includes",
+                    "filter_type": "relation_trait",
+                    "name": "coder_type",
+                    "relation_roles_list": [
+                        "ALL"
+                    ],
+                    "value_list": [
+                        "OpenCalais_REST_API_v2"
+                    ]
+                }
+            ]
+        },
+        {
+            "comparison_type": "includes",
+            "filter_type": "entity_trait",
+            "name": "sourcenet-Newspaper-ID",
+            "relation_roles_list": [
+                "THROUGH"
+            ],
+            "value_list": [
+                1
+            ]
+        }
+    ]
+}
+2020-01-03 17:22:07,559 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - - comparison type = AND
+2020-01-03 17:22:07,559 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[0] ----> In filter_relations_by_filter_spec(): aggregate ( AND ) filter_spec.  Looping over 4 children ( [<context.export.network.filter_spec.FilterSpec object at 0x7fe85358ba58>, <context.export.network.filter_spec.FilterSpec object at 0x7fe8535350b8>, <context.export.network.filter_spec.FilterSpec object at 0x7fe853535cc0>, <context.export.network.filter_spec.FilterSpec object at 0x7fe853535898>] ).
+2020-01-03 17:22:07,559 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[0] --------> In filter_relations_by_filter_spec(): child item #1 - comparison type = includes; JSON:
+{
+    "comparison_type": "includes",
+    "filter_type": "relation_type_slug",
+    "relation_roles_list": [
+        "ALL"
+    ],
+    "value_list": [
+        "mentioned",
+        "quoted",
+        "shared_byline"
+    ]
+}
+2020-01-03 17:22:07,560 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[0] --------> In filter_relations_by_filter_spec(): child item #2 - comparison type = AND; JSON:
+{
+    "comparison_type": "AND",
+    "filter_type": "entity_type_slug",
+    "value_list": [
+        {
+            "comparison_type": "equals",
+            "filter_type": "entity_type_slug",
+            "relation_roles_list": [
+                "FROM"
+            ],
+            "value": "person"
+        },
+        {
+            "comparison_type": "equals",
+            "filter_type": "entity_type_slug",
+            "relation_roles_list": [
+                "TO"
+            ],
+            "value": "person"
+        },
+        {
+            "comparison_type": "equals",
+            "filter_type": "entity_type_slug",
+            "relation_roles_list": [
+                "THROUGH"
+            ],
+            "value": "article"
+        }
+    ]
+}
+2020-01-03 17:22:07,560 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - In filter_relations_by_filter_spec(): Child is an aggregate comparison type ( AND ).  Parent comparison type: AND  Making recursive call to filter_relations_by_filter_spec() ( filter spec: <context.export.network.filter_spec.FilterSpec object at 0x7fe8535350b8> ).  ( level: 0; recursion stack: [] ). 
+2020-01-03 17:22:07,560 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[1] In filter_relations_by_filter_spec():
+- filter = <context.export.network.filter_spec.FilterSpec object at 0x7fe8535350b8>
+- level = 1
+- recursion stack: ['AND']
+2020-01-03 17:22:07,560 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - - filter dict:
+{
+    "comparison_type": "AND",
+    "filter_type": "entity_type_slug",
+    "value_list": [
+        {
+            "comparison_type": "equals",
+            "filter_type": "entity_type_slug",
+            "relation_roles_list": [
+                "FROM"
+            ],
+            "value": "person"
+        },
+        {
+            "comparison_type": "equals",
+            "filter_type": "entity_type_slug",
+            "relation_roles_list": [
+                "TO"
+            ],
+            "value": "person"
+        },
+        {
+            "comparison_type": "equals",
+            "filter_type": "entity_type_slug",
+            "relation_roles_list": [
+                "THROUGH"
+            ],
+            "value": "article"
+        }
+    ]
+}
+2020-01-03 17:22:07,560 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - - comparison type = AND
+2020-01-03 17:22:07,561 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[1] ----> In filter_relations_by_filter_spec(): aggregate ( AND ) filter_spec.  Looping over 3 children ( [<context.export.network.filter_spec.FilterSpec object at 0x7fe853535cf8>, <context.export.network.filter_spec.FilterSpec object at 0x7fe8535352e8>, <context.export.network.filter_spec.FilterSpec object at 0x7fe853535d30>] ).
+2020-01-03 17:22:07,561 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[1] --------> In filter_relations_by_filter_spec(): child item #1 - comparison type = equals; JSON:
+{
+    "comparison_type": "equals",
+    "filter_type": "entity_type_slug",
+    "relation_roles_list": [
+        "FROM"
+    ],
+    "value": "person"
+}
+2020-01-03 17:22:07,561 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[1] --------> In filter_relations_by_filter_spec(): child item #2 - comparison type = equals; JSON:
+{
+    "comparison_type": "equals",
+    "filter_type": "entity_type_slug",
+    "relation_roles_list": [
+        "TO"
+    ],
+    "value": "person"
+}
+2020-01-03 17:22:07,561 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[1] --------> In filter_relations_by_filter_spec(): child item #3 - comparison type = equals; JSON:
+{
+    "comparison_type": "equals",
+    "filter_type": "entity_type_slug",
+    "relation_roles_list": [
+        "THROUGH"
+    ],
+    "value": "article"
+}
+2020-01-03 17:22:07,562 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[0] --------> In filter_relations_by_filter_spec(): child item #3 - comparison type = AND; JSON:
+{
+    "comparison_type": "AND",
+    "filter_type": "relation_trait",
+    "value_list": [
+        {
+            "comparison_type": "in_range",
+            "filter_type": "relation_trait",
+            "name": "pub_date",
+            "relation_roles_list": [
+                "ALL"
+            ],
+            "value_from": "2009-12-01",
+            "value_to": "2009-12-31"
+        },
+        {
+            "comparison_type": "includes",
+            "filter_type": "relation_trait",
+            "name": "sourcenet-coder-User-username",
+            "relation_roles_list": [
+                "ALL"
+            ],
+            "value_list": [
+                "automated"
+            ]
+        },
+        {
+            "comparison_type": "includes",
+            "filter_type": "relation_trait",
+            "name": "coder_type",
+            "relation_roles_list": [
+                "ALL"
+            ],
+            "value_list": [
+                "OpenCalais_REST_API_v2"
+            ]
+        }
+    ]
+}
+2020-01-03 17:22:07,562 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - In filter_relations_by_filter_spec(): Child is an aggregate comparison type ( AND ).  Parent comparison type: AND  Making recursive call to filter_relations_by_filter_spec() ( filter spec: <context.export.network.filter_spec.FilterSpec object at 0x7fe853535cc0> ).  ( level: 0; recursion stack: [] ). 
+2020-01-03 17:22:07,562 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[1] In filter_relations_by_filter_spec():
+- filter = <context.export.network.filter_spec.FilterSpec object at 0x7fe853535cc0>
+- level = 1
+- recursion stack: ['AND']
+2020-01-03 17:22:07,563 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - - filter dict:
+{
+    "comparison_type": "AND",
+    "filter_type": "relation_trait",
+    "value_list": [
+        {
+            "comparison_type": "in_range",
+            "filter_type": "relation_trait",
+            "name": "pub_date",
+            "relation_roles_list": [
+                "ALL"
+            ],
+            "value_from": "2009-12-01",
+            "value_to": "2009-12-31"
+        },
+        {
+            "comparison_type": "includes",
+            "filter_type": "relation_trait",
+            "name": "sourcenet-coder-User-username",
+            "relation_roles_list": [
+                "ALL"
+            ],
+            "value_list": [
+                "automated"
+            ]
+        },
+        {
+            "comparison_type": "includes",
+            "filter_type": "relation_trait",
+            "name": "coder_type",
+            "relation_roles_list": [
+                "ALL"
+            ],
+            "value_list": [
+                "OpenCalais_REST_API_v2"
+            ]
+        }
+    ]
+}
+2020-01-03 17:22:07,563 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - - comparison type = AND
+2020-01-03 17:22:07,563 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[1] ----> In filter_relations_by_filter_spec(): aggregate ( AND ) filter_spec.  Looping over 3 children ( [<context.export.network.filter_spec.FilterSpec object at 0x7fe853535780>, <context.export.network.filter_spec.FilterSpec object at 0x7fe853574208>, <context.export.network.filter_spec.FilterSpec object at 0x7fe853535eb8>] ).
+2020-01-03 17:22:07,563 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[1] --------> In filter_relations_by_filter_spec(): child item #1 - comparison type = in_range; JSON:
+{
+    "comparison_type": "in_range",
+    "filter_type": "relation_trait",
+    "name": "pub_date",
+    "relation_roles_list": [
+        "ALL"
+    ],
+    "value_from": "2009-12-01",
+    "value_to": "2009-12-31"
+}
+2020-01-03 17:22:07,564 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[1] --------> In filter_relations_by_filter_spec(): child item #2 - comparison type = includes; JSON:
+{
+    "comparison_type": "includes",
+    "filter_type": "relation_trait",
+    "name": "sourcenet-coder-User-username",
+    "relation_roles_list": [
+        "ALL"
+    ],
+    "value_list": [
+        "automated"
+    ]
+}
+2020-01-03 17:22:07,564 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[1] --------> In filter_relations_by_filter_spec(): child item #3 - comparison type = includes; JSON:
+{
+    "comparison_type": "includes",
+    "filter_type": "relation_trait",
+    "name": "coder_type",
+    "relation_roles_list": [
+        "ALL"
+    ],
+    "value_list": [
+        "OpenCalais_REST_API_v2"
+    ]
+}
+2020-01-03 17:22:07,565 - DEBUG - context.export.network.network_data_request.NetworkDataRequest - 
+
+[0] --------> In filter_relations_by_filter_spec(): child item #4 - comparison type = includes; JSON:
+{
+    "comparison_type": "includes",
+    "filter_type": "entity_trait",
+    "name": "sourcenet-Newspaper-ID",
+    "relation_roles_list": [
+        "THROUGH"
+    ],
+    "value_list": [
+        1
+    ]
+}
