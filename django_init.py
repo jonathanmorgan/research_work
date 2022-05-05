@@ -6,7 +6,7 @@ import sys
 os.environ["DJANGO_ALLOW_ASYNC_UNSAFE"] = "true"
 
 # path to folder where "manage.py" lives in your django project.
-project_path = "/home/jonathanmorgan/work/django/research/"
+project_path = "/home/jonathanmorgan/work/django/research/research"
 
 # Tell django where settings are.
 os.environ.setdefault( "DJANGO_SETTINGS_MODULE", "research.settings" )
